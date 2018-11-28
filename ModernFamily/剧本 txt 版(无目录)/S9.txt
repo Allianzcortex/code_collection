@@ -36691,3 +36691,17 @@ S09E21
 - Oh, dad.
  老爸 
 
+---
+
+附录
+
+感谢人人字幕组，所有的荣誉属于字幕组成员。
+
+基于字幕创建完成了中英剧本，包含 txt 与 mobi 两种格式。创建过程中所用到的字幕内容(均转为 Utf-8 格式)和代码参见 [https://github.com/Allianzcortex/code_collection/tree/master/ModernFamily]，经过适当修正后也可以用于其他美剧的剧本生成。
+
+最新修正的版本始终参见 release 页面：[https://github.com/Allianzcortex/code_collection/releases/]，推荐从这个页面下载；同时维护百度云与 Google Drive 地址方便大家分流下载。
+
+Google 上搜索 "Modern Family episode scripts" 所出现的首个链接提供的剧本链接格式如下：https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=modern-family&episode=s05e10，
+仍然没有包含每一句话对应的剧中人物关系。希望未来有可靠渠道得到对应信息。
+
+作者：@Allianzcortex，联系邮箱：iamwanghz@gmail.com。
