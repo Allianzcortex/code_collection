@@ -1,7 +1,8 @@
 # -*- coding:utf-9 -*-
 
 """
-在执行前先确保所有的字幕文件都为 utf-8 编码
+You must make sure all files are encoded with utf-8 format
+If not,you can use `change_file_format.py` to convert.
 """
 
 import os
