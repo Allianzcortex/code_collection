@@ -1,2 +1,2 @@
-all
+all:
 	cd STO && go test
