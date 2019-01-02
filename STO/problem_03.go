@@ -28,11 +28,11 @@ func checkMatrix(matrix [][]int, target int) []int {
 
 }
 
-func main() {
-	matrix := [2][3]int{
-		{1, 2, 3},
-		{4, 5, 6},
-	}
+// func main() {
+// 	matrix := [2][3]int{
+// 		{1, 2, 3},
+// 		{4, 5, 6},
+// 	}
 
-	checkMatrix(matrix, 7)
-}
+// 	checkMatrix(matrix, 7)
+// }
