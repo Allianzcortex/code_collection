@@ -1,1 +1,1 @@
-You can run it directly in `Intellij IDEA`
+You can run it directly in `Intellij IDEA` and final the result in `output/part-r-00000` file
