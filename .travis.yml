@@ -5,4 +5,5 @@ go:
   - master
 
 scripts:
+  echo "34 00 11"
   cd STO && go test
