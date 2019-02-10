@@ -1,6 +1,5 @@
-package com.example.demo.payroll;
+package payroll.model;
 
-// Data 是 lombok ，帮助生成了 equals,hash,tostring 等方法
 import lombok.Data;
 
 import javax.persistence.Entity;
@@ -8,7 +7,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Data
-@Entity  // 是 JPA 的注解，
+@Entity
 public class Employee {
     private @Id
     @GeneratedValue
@@ -16,9 +15,8 @@ public class Employee {
     private String name;
     private String role;
 
-    Employee(String name, String role) {
+    public Employee(String name, String role) {
         this.name = name;
         this.role = role;
     }
-
 }
