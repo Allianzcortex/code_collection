@@ -11,15 +11,15 @@ validation)
 
 ***Signup Function***
 
-![signup](images/signup.png)
+![signup](images/signup.PNG)
 
 ---
 
 ***Login Function***
-![login](images/login.png)
+![login](images/login.PNG)
 
 ---
 
 ***Display FUnction***
-![display](images/display.png)
+![display](images/display.PNG)
 
