@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>用户注册页面</title>
+        <title>User Signup Page</title>
     </head>
     <body>
         <form action="signup.php" method="post">

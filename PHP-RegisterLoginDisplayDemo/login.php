@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>用户登陆页面</title>
+        <title>User Login Page</title>
     </head>
     <body>
         <form action="login.php" method="post">
