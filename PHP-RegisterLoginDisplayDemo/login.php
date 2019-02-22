@@ -17,7 +17,7 @@
            $servername = "localhost";
            $username = "newuser";
            $password = "testuser";
-           $dbname = "assignment2";
+           $dbname = "h_wang";
 
            // 1. read data from input
            $email=$_POST["email"]??'';

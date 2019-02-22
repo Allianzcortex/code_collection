@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "newuser";
 $password = "testuser";
-$dbname = "assignment2";
+$dbname = "h_wang";
 
 $conn = new mysqli($servername, $username, "", $dbname);
 $selectSQL = 'SELECT * FROM `User`';
@@ -12,6 +12,8 @@ $result = $conn->query($selectSQL);
   if ($result->num_rows <= 0){
     echo 'Retrieval of data from Database Failed - #'.mysql_errno().': '.mysql_error();
   }else{
+// how to show a table in php?
+// reference:https://stackoverflow.com/questions/4331353/retrieve-data-from-db-and-display-it-in-table-in-php-see-this-code-whats-wron
       ?>
 <table border="2">
   <thead>
