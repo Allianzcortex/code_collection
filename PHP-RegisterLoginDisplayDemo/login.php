@@ -4,7 +4,19 @@
         <meta charset="UTF-8">
         <title>User Login Page</title>
     </head>
+
     <body>
+
+<a href="signup.php">sign up </a>
+<br/>
+<a  href="login.php"> login </a>
+<br/>
+<a href="display.php"> display </a>
+<br/>
+<br/>
+
+
+
         <form action="login.php" method="post">
             <p>email:<input type="text" name="email"></p>
             <p>password: <input type="text" name="password"></p>
@@ -15,8 +27,8 @@
 
            // 0. define mysql connect constant
            $servername = "localhost";
-           $username = "newuser";
-           $password = "testuser";
+           $username = "h_wang";
+           $pass = "A00431268";
            $dbname = "h_wang";
 
            // 1. read data from input
@@ -24,22 +36,22 @@
            $password=$_POST["password"]??'';
 
 
-           $conn = new mysqli($servername, $username, "", $dbname);
-           // Check connection
-           if ($conn->connect_error) {
-               die("Connection failed: " . $conn->connect_error);
-           } 
+           $link = mysqli_connect($servername, $username, $pass, $dbname);
+
+           //Check the connection. Give error message if any error 
+           if (!$link) die("Couldn't connect to MySQL");
+                      mysqli_select_db($link, $dbname);
            
            $sql = "select * from User where email='".$email."' and password='".$password."';";
         //    echo $sql;
-           $result = $conn->query($sql);
-
-           if ($result->num_rows > 0) {
-               echo "User exists; Login successfully";
-           } else {
-               echo "Empty or wrong input;\r\n";
+        $result = mysqli_query($link,$sql);
+           
+        if (mysqli_num_rows($result) >0 ) {
+            echo "User exists; Login successfully";
+        } else {
+            echo "Empty or wrong input;\r\n";
                echo "Login Uncessfullly";
-           }
+        }
 
 $conn->close();
         ?>
