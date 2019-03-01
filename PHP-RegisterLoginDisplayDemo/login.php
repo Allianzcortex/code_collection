@@ -27,9 +27,9 @@
 
            // 0. define mysql connect constant
            $servername = "localhost";
-           $username = "h_wang";
-           $pass = "A00431268";
-           $dbname = "h_wang";
+           $username = "root";
+           $pass = "root";
+           $dbname = "root";
 
            // 1. read data from input
            $email=$_POST["email"]??'';
