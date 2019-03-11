@@ -43,13 +43,16 @@ Selected_features = ['age',  'pclass_1', 'pclass_2', 'embarked_C',
                      'embarked_S', 'Sex_male']
 
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=2)
+X_train, X_test, y_train, y_test = \
+train_test_split(X, y, test_size=0.2, random_state=2)
 
 # check classification scores of logistic regression
-logreg = LogisticRegression(solver='lbfgs')
+
+logreg = LogisticRegression(solver='liblinear')
 logreg.fit(X_train, y_train)
 y_pred = logreg.predict(X_test)
 y_pred_proba = logreg.predict_proba(X_test)[:, 1]
+
 [fpr, tpr, thr] = roc_curve(y_test, y_pred_proba)
 
 print(logreg.__class__.__name__+" accuracy is %2.3f" % accuracy_score(y_test, y_pred))
@@ -65,8 +68,11 @@ plt.plot([0,fpr[idx]], [tpr[idx],tpr[idx]], 'k--', color='blue')
 plt.plot([fpr[idx],fpr[idx]], [0,tpr[idx]], 'k--', color='blue')
 plt.xlim([0.0, 1.0])
 plt.ylim([0.0, 1.05])
-plt.xlabel('False Positive Rate (1 - specificity)', fontsize=14)
-plt.ylabel('True Positive Rate (recall)', fontsize=14)
+plt.xlabel('False Positive Rate:', fontsize=14)
+plt.ylabel('Recall Rate', fontsize=14)
 plt.title('Receiver operating characteristic (ROC) curve')
-plt.legend(loc="lower right")
 plt.show()
+
+#   for any given model 
+
+
