@@ -19,7 +19,7 @@
 4. `Add New Transaction`: 添加一个新的交易(包括 customer ID 与 item 的 id 与 price)。其中会要求用户有一个 discount_code
 (折扣码)字段。用户最终交易需要支付的价格为：`Sum*(1-2.5*DC/100)`，其中 DC 计算方法为：得到过去五年内该用户的消费记录，在 0-100 之间则
 DC 为 0，在 100-200 之间则为 1，依此类推对消费额大于 500 的用户折扣码为 5
-5. `Cancen Transaction`: 输入 Transaction Number ，如果该交易发生于一个月内则支持取消，并返回所有可以取消的交易
+5. `Cancen Transaction`: 输入 Transaction Number ，如果该交易发生于一个月内则支持取消，删除所有与该次交易有关的信息(i.e. 删除 transactions 与 transaction_items 表的有关信息)，并返回所有可以取消的交易
 
 #### 执行：
 
