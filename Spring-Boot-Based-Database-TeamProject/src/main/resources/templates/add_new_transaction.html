@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8"/>
+    <title>Add Transaction</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+    <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+    <script src="scripts.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <a class="navbar-brand" href="index.html">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="search_table.html">SearchTable</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="add_new_articles.html">AddArticle</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="add_new_customer.html">AddCustomer</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="add_new_transaction.html">AddTransaction</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="delete_transaction.html">CancelTransaction</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <h4>Add New Transaction</h4>
+    <div class="col col-lg-2">
+        <form id="form" action="" method="post">
+            customer id: <input type="text" class="form-control" id="customerId" name="customerId">
+            <br>
+            Please make sure the format is like : <b>{id1:price1;id2:price2} </b> like : 1:12;2:14<br>
+            <div id="error_8"></div>
+            items: <input type="text" class="form-control" id="items" name="items"><br>
+
+            <button id="submit_new_transaction" class="btn btn-success" type="button" name="submit" value="submit">Add
+            </button>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>

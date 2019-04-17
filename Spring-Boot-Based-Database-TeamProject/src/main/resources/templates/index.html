@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Search Table</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+
+
+    <script src="scripts.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: 'http://localhost:8080/api/getAllTables', // url where to submit the request
+                type: "GET", // type of action POST || GET
+                dataType: 'json', // data type
+                headers: {
+                    'Access-Control-Allow-Origin': '*'
+                },
+                // data : $("#form").serialize(), // post data || get data
+                success: function (result) {
+                    // you can see the result from the console
+                    // tab of the developer tools
+
+                    var $select = $('#down');
+                    var listitems = '';
+                    var temp = 'random';
+                    $.each(result, function (key, value) {
+                        console.log(value);
+                        listitems += '<option value=' + value + '>' + value + '</option>';
+                    });
+                    $select.append(listitems);
+                },
+                error: function (xhr, resp, text) {
+                    console.log(xhr, resp, text);
+                }
+            })
+        });
+
+    </script>
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <a class="navbar-brand" href="index.html">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+            <li class="nav-item ">
+                <a class="nav-link" href="search_table.html">SearchTable</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="add_new_articles.html">AddArticle</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="add_new_customer.html">AddCustomer</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="add_new_transaction.html">AddTransaction</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="delete_transaction.html">CancelTransaction</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+<div class="container">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+   <h1>Welcome To  Halifax Science Library！！！</h1>
+</div>
+</body>
+</html>

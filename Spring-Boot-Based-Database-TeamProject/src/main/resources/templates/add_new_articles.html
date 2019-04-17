@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8"/>
+    <title>Add Article</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+    <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+    <script src="scripts.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <a class="navbar-brand" href="index.html">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="search_table.html">SearchTable</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="add_new_articles.html">AddArticle</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="add_new_customer.html">AddCustomer</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="add_new_transaction.html">AddTransaction</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="delete_transaction.html">CancelTransaction</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+<div class="container">
+    <h4>Add New Articles</h4>
+    <div class="col col-lg-2">
+
+        <form id="form" action="" method="post">
+            <div id="error_5"></div>
+            magazine: <input type="text" class="form-control" id="magazine" name="magazine">
+            volume: <input type="text" class="form-control" id="volume" name="volume">
+            volumeNumber: <input type="text" class="form-control" id="volumenumber" name="volumeNumber">
+            <div id="error_1"></div>
+            title: <input type="text" class="form-control" id="title" name="title">
+            pages: <input type="text" class="form-control" id="pages" name="pages">
+            <label>Please input the format like : JK:Rolin:JKRolin@gmail.com;aa:bb:aa@gmail.com</label>
+            authors: <input type="text" class="form-control" id="authors" name="authors"><br>
+            publication_year: <input type="text" class="form-control" id="publication_year" name="authors">
+            <div id="error_2"></div>
+            <button type="button" class="btn btn-success" id="submit" class="form-control" name="submit" value="submit">
+                Add
+            </button>
+
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
