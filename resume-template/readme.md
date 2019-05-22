@@ -5,4 +5,4 @@ https://www.overleaf.com/read/xsmdttbjpkrp
 
 2. screen shots :
 
-![insight](insight.png)
+![insight](insight.PNG)
