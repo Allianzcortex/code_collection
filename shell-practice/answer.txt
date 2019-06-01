@@ -1,0 +1,15 @@
+1. Yes. 
+
+Example : `cd ~` means you will enter into the home directory , and 
+`cd .` means you will enter into the current directory . So if you are 
+already in the home directory , `~` will be equals to `.`.
+
+Following shell is tested in my dev.cs.smu server.
+```
+someone@lnx:~$ cd ~
+someone@lnx:~$ pwd
+/home/student/someone
+someone@lnx:~$ cd .
+someone@lnx:~$ pwd
+/home/student/someone
+```
