@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Draw Calculation Table</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
+        integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous">
+    </script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+
+</head>
+
+<body>
+    <title>Min and Max Value Calculation</title>
+    <p>Min and Max Value Calculation</p>
+    <form id='num_form'>
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Min_Value</span>
+            </div>
+            <input type="text" class="form-control" id="min_value" placeholder="0" value=0 aria-label="Username"
+                aria-describedby="basic-addon1">
+        </div>
+
+
+        <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1">Max_Value</span>
+                </div>
+                <input type="text" class="form-control" id="max_value" placeholder="5" value=5 aria-label="Username"
+                    aria-describedby="basic-addon1">
+            </div>
+            <button type="button" id="cli" class="btn btn-success">calculation</button>
+    </form>
+
+    <table id="table" class="table">
+        <thead>
+            <tr>
+                <th scope="col">N</th>
+                <th scope="col">N*N</th>
+                <th scope="col">N*N*N</th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+        </tbody>
+    </table>
+</body>
+
+</html>
+<script type="text/javascript">
+    // https://www.tutorialspoint.com/What-is-document-ready-method-in-jQuery
+    $(document).ready(function () {
+        console.log("fuck");
+        $("#cli").click(function () {
+            var min_value = parseInt(($('#min_value').val()))
+            console.log(min_value)
+            var max_value = parseInt(($('#max_value').val()))
+            console.log(max_value)
+            if (min_value > max_value) {
+                alert("min value should be greater than max value")
+            }
+            $("#table tbody").empty()
+            for (var i = min_value; i <= max_value; i += 5) {
+                $("#table tbody").append(
+                    `<tr><th scope='row'>${i}</th><td>${i*i}</td><td>${i*i*i}</td></th></tr>`)
+            }
+
+            console.log("xx")
+            return false
+        })
+
+    });
+</script>

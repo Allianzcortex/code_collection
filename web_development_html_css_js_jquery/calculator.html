@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Draw Calculation Table</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
+        integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous">
+    </script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+
+</head>
+
+<body>
+    <title>Calculator</title>
+    <p>Calculator</p>
+    <form id='num_form'>
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Number 1</span>
+            </div>
+            <input type="text" class="form-control" id="number1" placeholder="5" value=5 aria-label="number1"
+                aria-describedby="basic-addon1">
+        </div>
+
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Max_Value</span>
+            </div>
+            <input type="text" class="form-control" id="number2" placeholder="2" value=2 aria-label="number2"
+                aria-describedby="basic-addon1">
+        </div>
+
+    </form>
+
+    <div class="btn-group mr-2" role="group" aria-label="First group">
+        <button type="button" id="Add" class="btn btn-secondary">Add</button>
+        <button type="button" id="Multiply" class="btn btn-secondary">Multiply</button>
+        <button type="button" id="Subtract" class="btn btn-secondary">Subtract</button>
+        <button type="button" id="Divide" class="btn btn-secondary">Divide</button>
+    </div>
+
+    <br />
+    <br />
+    <h2><span class="badge badge-info">Result is :</span></h2>
+    <h2> <span class="badge badge-success" id="result"></span></h2>
+
+
+</body>
+
+</html>
+<script type="text/javascript">
+    // https://www.tutorialspoint.com/What-is-document-ready-method-in-jQuery
+    $(document).ready(function () {
+        var num1;
+        var num2;
+
+        // don't read automatically the moment the webpage is loaded
+        // for users may change the input 
+        function read_input() {
+            num1 = $("#number1").val()
+            // cannot use try-cathc for the function is too general
+            // for more discussions
+            // https://stackoverflow.com/a/52986361/3165378
+            if(!(!isNaN(parseFloat(num1)) && isFinite(num1))){
+                alert("number1 is not a valid input")
+            }
+            num1=parseInt(num1)
+
+            num2 = $("#number2").val()
+            if(!(!isNaN(parseFloat(num2)) && isFinite(num2))){
+                alert("number2 is not a valid input")
+            }
+            num2 = parseInt(num2)
+        }
+
+        $("#Add").click(function () {
+            read_input()
+            $("#result").text(num1 + num2);
+        })
+
+        $("#Multiply").click(function () {
+            read_input()
+            $("#result").text(num1 * num2);
+        })
+
+        $("#Subtract").click(function () {
+            read_input()
+            $("#result").text(num1 - num2);
+        })
+
+        $("#Divide").click(function () {
+            read_input()
+            $("#result").text(num1 / num2);
+        })
+    });
+</script>
