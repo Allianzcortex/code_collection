@@ -1,0 +1,17 @@
+{
+  "name": "express_mongo_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project2_server.js",
+  "dependencies": {
+    "mongodb": "^2.1.8",
+    "bcrypt": "^0.8.5",
+    "express": "^3.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
