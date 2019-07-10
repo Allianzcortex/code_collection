@@ -1,0 +1,1001 @@
+Year,Case Vehicle ID,Vehicle Body Type,Registration Class,Action Prior to Accident,Type / Axles of Truck or Bus,Direction of Travel,Fuel Type,Vehicle Year,State of Registration,Number of Occupants,Engine Cylinders,Vehicle Make,Contributing Factor 1,Contributing Factor 1 Description,Contributing Factor 2,Contributing Factor 2 Description,Event Type,Partial VIN
+2016,13364180,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,2,4,NISSA,HUMAN,Fell Asleep,HUMAN,Unknown,Not Applicable,KNMAT2MV1FP544486
+2016,13364181,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,South,Gas,2007,NY,1,4,HYUND,HUMAN,Alcohol Involvement,HUMAN,Not Applicable,Not Entered,5NPET46C87H227617
+2016,13364182,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2009,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,1HGCP26379A133398
+2016,13364283,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,4,DODGE,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,1B3HB28B37D582730
+2016,13364291,SUBURBAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,West,Gas,2012,NY,1,4,MINI,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,WMWZC3C57CWL81108
+2016,13364292,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2013,NY,3,5,VOLKS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3VWDP7AJ0DM381569
+2016,13364304,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2014,NY,2,6,CHEVR,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,3GCUKREH8EG196335
+2016,13364305,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,4,HONDA,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,1HGCM56387A220086
+2016,13364306,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,1,6,BUICK,ENVMT,Pavement Slippery,HUMAN,Not Applicable,"Snow Embankment, Collision With Fixed Object",3G5DA03E04S597761
+2016,13364307,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,4,4,CHEVR,ENVMT,Pavement Slippery,ENVMT,Obstruction/ Debris,Unknown,2CNFLCEC1B6362978
+2016,13364313,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2014,NY,0,4,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WBA3B5C51EP543896
+2016,13364318,PICKUP TRUCK,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2008,NY,1,8,TOYOT,HUMAN,Unsafe Speed,HUMAN,Traffic Control Device Disregarded,Not Applicable,5TBBT54138S459332
+2016,13364319,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2006,NY,1,6,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5NPEU46F76H086898
+2016,13364336,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1995,NY,2,6,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1GNDT13W0S2163647
+2016,13364337,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,1,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2G2WP522741119566
+2016,13364347,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,South,Gas,2008,NY,1,6,DODGE,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,2D8HN54P88R135786
+2016,13364348,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2014,NY,0,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KMHDH4AE3EU051354
+2016,13364350,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2015,NY,2,6,AUDI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WAUHGAFCXFN010694
+2016,13364360,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2008,NY,1,6,HONDA,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,5FNYF18578B008620
+2016,13364361,4 DOOR SEDAN,SPORTS,Going Straight Ahead,Not Entered,South,Gas,2014,NY,1,4,AUDI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WAUFFAFL6EN006344
+2016,13364368,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,1,4,NISSA,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1N4AL3AP0DC252818
+2016,13364369,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2014,NY,2,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4AL3AP0EC429594
+2016,13364374,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Southwest,Gas,2004,NY,3,8,LINCO,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,5LMEU88H44ZJ03774
+2016,13364482,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2011,NY,2,6,LEXUS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTHBK1EG9B2465185
+2016,13364507,SUBURBAN,COMMERCIAL,Backing,Not Entered,West,Gas,2011,NY,1,8,GMC,HUMAN,Backing Unsafely,ENVMT,Obstruction/ Debris,Not Applicable,1GKS2MEF5BR385632
+2016,13364508,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCP26848A114320
+2016,13364523,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2002,NY,2,4,HONDA,HUMAN,Alcohol Involvement,HUMAN,Unsafe Lane Changing,"Overturned, Non-Collision",JHLRD78802C042266
+2016,13364574,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,1,6,CHEVR,HUMAN,Traffic Control Device Disregarded,HUMAN,Unknown,Not Applicable,2G1WF52E539372287
+2016,13364575,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2013,NY,3,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4AL3APXDC269853
+2016,13364576,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2013,NY,4,4,FORD,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,3FA6P0H77DR225809
+2016,13364577,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,2,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GCVKREC1FZ407837
+2016,13364578,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2014,NY,2,8,RAM,ENVMT,Pavement Slippery,HUMAN,Unknown,Not Applicable,1C6RR7GT2ES273031
+2016,13364596,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2001,NY,1,6,PONTI,HUMAN,Driver Inattention/Distraction*,HUMAN,Unsafe Speed,Not Applicable,1G2WK52J31F262590
+2016,13364597,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2008,NY,1,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G2ZH57N684305865
+2016,13364605,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2016,NY,1,4,HYUND,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,5NPDH4AE9GH659400
+2016,13364606,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2014,NY,1,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Sign Post, Collision With Fixed Object",KNAFX4A80E5200210
+2016,13364640,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1998,NY,1,4,FORD,HUMAN,Not Applicable,HUMAN,Unknown,Not Applicable,1FAFP6533WK251156
+2016,13364748,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2003,NY,1,6,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HKRL18933H503410
+2016,13364749,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2002,NY,1,6,MERCU,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1MEFM50U62G605020
+2016,13364778,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,2,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KMHCG45CX4U511695
+2016,13364779,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2015,NY,1,4,NISSA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,3N1CE2CP7FL431551
+2016,13364802,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,1,8,DODGE,HUMAN,Alcohol Involvement,HUMAN,Not Applicable,Not Applicable,1B4HS58NX2F104468
+2016,13364868,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1996,NY,1,6,CHEVR,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,"Other Motor Vehicle, Collision With",1G1LV15M1TY126575
+2016,13364874,4 DOOR SEDAN,ORGANIZATIONAL,Going Straight Ahead,Not Entered,Northeast,Gas,2005,NY,1,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4S3BL626557222701
+2016,13364888,4 DOOR SEDAN,OMNIBUS-SPECIAL (PRIVATE RENTAL),Changing Lanes,Not Entered,East,Gas,2016,NY,1,4,NISSA,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,3N1CE2CP5GL367219
+2016,13364892,SUBURBAN,OMNIBUS - LIVERY,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,6,DODGE,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1D4GP24R25B173807
+2016,13364922,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1990,NY,1,6,CHEVR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,2G1WN14T3L9268484
+2016,13364923,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,2,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G2HX52K234199306
+2016,13364924,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,1,4,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1FAHP35N08W214179
+2016,13364988,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,3,6,DODGE,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,1D7HW22K78S598296
+2016,13365008,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Avoiding Object in Roadway,Not Entered,East,Gas,2007,NY,1,6,ACURA,HUMAN,Passing or Lane Usage Improper,ENVMT,Animal's Action,Not Applicable,19UUA66277A028247
+2016,13365018,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,1998,NY,1,4,HONDA,HUMAN,Unsafe Speed,VEHICLE,Tire Failure/Inadequate,"Tree, Collision With Fixed Object",2HGEJ8549WH566094
+2016,13365020,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2007,NY,1,6,ME/BE,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Unsafe Speed,Not Applicable,WDBRF52H67E025776
+2016,13365028,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,3,6,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,JTEBU14R88K033500
+2016,13365029,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2008,NY,3,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTEDS41A682063416
+2016,13365044,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,1,4,HONDA,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,1HGCM56613A133473
+2016,13365054,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,3,6,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1FAHP55U93A124182
+2016,13365078,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2014,NY,1,4,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1FMCU0GX4EUE45048
+2016,13365079,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2006,NY,2,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4AL11D66C228942
+2016,13365082,SUBURBAN,PASSENGER OR SUBURBAN,Avoiding Object in Roadway,Not Entered,East,Gas,2004,NY,2,6,JEEP,HUMAN,Outside Car Distraction*,HUMAN,Passing or Lane Usage Improper,Not Applicable,1J4GW48S94C385079
+2016,13365088,SUBURBAN,PASSENGER OR SUBURBAN,Starting in Traffic,Not Entered,West,Gas,1996,NY,3,6,DODGE,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1B4GP54L2TB324102
+2016,13365089,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2002,NY,1,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3GNEC16Z82G192489
+2016,13365096,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,1,4,HONDA,HUMAN,Driver Inattention/Distraction*,HUMAN,Unsafe Speed,Not Applicable,1HGCM72694A024584
+2016,13365097,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2014,NY,0,4,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,"Sign Post, Collision With Fixed Object",1C4NJDEB0ED831180
+2016,13365098,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Northwest,Gas,2013,NY,1,6,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Entered,2FMDK3JC8DBB89132
+2016,13365099,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,1N4AL21E58N432458
+2016,13365100,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2011,NY,1,6,BMW,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,WBAPK5C53BA995137
+2016,13365101,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2004,NY,0,6,MAZDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1YVFP84D245N80632
+2016,13365155,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,8,DODGE,HUMAN,Alcohol Involvement,HUMAN,Passing or Lane Usage Improper,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1D7HU18258S534118
+2016,13365156,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,North,Gas,2008,NY,1,4,HONDA,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,JHMGD38658S030770
+2016,13365158,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Building/Wall, Collision With Fixed Object",1HGEM22305L080050
+2016,13365159,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,West,Gas,2004,NY,1,6,TOYOT,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,4T1BF30K24U571039
+2016,13365160,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2011,NY,1,6,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1GCNCPEX7BZ311032
+2016,13365166,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2011,NY,1,6,ACURA,HUMAN,Driver Inexperience*,HUMAN,Reaction to Other Uninvolved Vehicle,Not Applicable,2HNYD2H20BH549439
+2016,13365168,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1999,NY,1,4,SATUR,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,1G8ZP1285XZ307935
+2016,13365169,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,2,6,CHRYS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2A8HR54149R571012
+2016,13365170,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,East,Gas,2000,NY,1,4,HONDA,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,2HGEJ667XYH591490
+2016,13365171,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BE46K57U182545
+2016,13365172,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,West,Gas,2008,NY,3,6,CHEVR,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,1GNDT13S182113006
+2016,13365173,PICKUP TRUCK,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2008,NY,1,6,GMC,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GTEC19X78Z256565
+2016,13365178,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Starting in Traffic,Not Entered,South,Gas,2009,NY,2,4,NISSA,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,,1N4AL21E79N505556
+2016,13365179,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2007,NY,2,6,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,,5NPEU46F57H261585
+2016,13365182,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2008,NY,1,6,BMW,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,WBANV13528C150087
+2016,13365185,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,1,4,FORD,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,1FA6P0H73E5380412
+2016,13365214,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,4,ACURA,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,19UUB1F39FA005348
+2016,13365227,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2009,NY,3,4,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,3N1BC13E29L362363
+2016,13365228,PICKUP TRUCK,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2016,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5TFDZ5BN4GX001506
+2016,13365232,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2009,NY,2,6,BMW,ENVMT,Animal's Action,HUMAN,Not Applicable,,5UXFE43549L275133
+2016,13365250,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,North,Gas,2008,NY,3,6,CHRYS,ENVMT,Animal's Action,ENVMT,Pavement Slippery,Not Applicable,2A8HR54P98R658164
+2016,13365256,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,1,4,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,JHLRD68444C019857
+2016,13365266,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,3,6,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1FMZU73K44UB38488
+2016,13365271,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2013,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5J6RM4H74DL045235
+2016,13365272,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2005,NY,2,6,FORD,VEHICLE,Other*,HUMAN,Not Applicable,Not Applicable,1FMZU73E65UA22043
+2016,13365284,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2000,NY,1,6,CHEVR,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,1GNDT13W8Y2271460
+2016,13365285,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,6,CADIL,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,1G6DH5E51D0175202
+2016,13365332,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2001,NY,1,6,NISSA,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,"Fence, Collision With Fixed Object",JN1CA31AX1T312574
+2016,13365340,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2013,NY,1,6,KIA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,5XYKTDA20DG314920
+2016,13365341,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,South,Gas,2000,NY,1,6,JEEP,HUMAN,Alcohol Involvement,HUMAN,Unsafe Speed,Not Applicable,1J4GW48S9YC409497
+2016,13365342,PICKUP TRUCK,COMMERCIAL,Parked,Not Entered,North,Gas,2001,NY,0,10,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1B7KF23W31J546404
+2016,13365343,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,2,6,DODGE,ENVMT,Pavement Slippery,HUMAN,Not Applicable,"Other Fixed Object*, Collision With Fixed Object",1D7GG16X03S306652
+2016,13365344,SUBURBAN,PASSENGER OR SUBURBAN,Merging,Not Entered,South,Gas,2000,NY,1,6,ME/BE,HUMAN,Failure to Yield Right-of-Way,ENVMT,View Obstructed/Limited,Not Entered,4JGAB54E2YA208402
+2016,13365346,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1998,NY,1,4,HONDA,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Applicable,2HGEJ8542WH602756
+2016,13365352,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,4,CHEVR,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,1G11H5SA9DU122119
+2016,13365355,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1997,NY,2,8,LINCO,HUMAN,Alcohol Involvement,ENVMT,Pavement Slippery,,1LNLM81WXVY691562
+2016,13365365,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2002,NY,4,4,HONDA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,2HGES16532H569613
+2016,13365382,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2011,NY,1,4,NISSA,HUMAN,Unsafe Speed,HUMAN,Failure to Keep Right,"Curbing, Collision With Fixed Object",3N1BC1AP2BL459671
+2016,13365383,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2008,NY,0,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMCU03Z08KA78303
+2016,13365384,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,West,Gas,2003,NY,1,6,GMC,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,1GKDT13S432365483
+2016,13365385,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2013,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BD1EB7DU002397
+2016,13365389,VAN TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,1,6,CHRYS,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,2C4GP44L93R205011
+2016,13365390,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Northwest,Gas,2011,NY,1,4,TOYOT,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,2T1BU4EE5BC721013
+2016,13365391,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,1,4,TOYOT,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,2T3DFREV5EW209133
+2016,13365392,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,2,4,NISSA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1N4AL3AP1DC128721
+2016,13365393,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2010,NY,2,6,FORD,HUMAN,Reaction to Other Uninvolved Vehicle,ENVMT,Pavement Slippery,Not Applicable,2FMHK6DT2ABA54058
+2016,13365398,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,1997,NY,2,4,MAZDA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1YVGE22C5V5596875
+2016,13365399,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2010,NY,1,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G1ZC5EB6AF310313
+2016,13365403,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2014,NY,1,6,DODGE,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2C3CDXBG3EH223421
+2016,13365404,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,2,4,HYUND,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Guide Rail - Not At End, Collision With Fixed Object",5NPEB4AC7EH947093
+2016,13365405,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,3,4,VOLKS,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,WVWEK73C96P191884
+2016,13365406,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,3,8,FORD,ENVMT,Pavement Slippery,HUMAN,Reaction to Other Uninvolved Vehicle,Not Applicable,1FMJK2A52BEF57711
+2016,13365407,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2001,NY,1,6,CHEVR,ENVMT,Pavement Slippery,HUMAN,Reaction to Other Uninvolved Vehicle,"Guide Rail - Not At End, Collision With Fixed Object",1G1ND52J216267502
+2016,13365425,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2001,NY,1,4,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,4T1BG22K61U857220
+2016,13365426,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,3,8,CHEVR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,2GCEK19V331332009
+2016,13365512,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,1992,NY,2,6,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Entered,1FACP52U4NG133998
+2016,13365513,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2003,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,4T1BE32K93U135058
+2016,13365514,SUBURBAN,OMNIBUS - TAXI,Making Left Turn,Not Entered,East,Gas,2009,NY,1,8,CHEVR,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,1GNEC03049R237695
+2016,13365515,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2012,NY,0,4,MINI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WMWSU3C56CT540913
+2016,13365526,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,4,HYUND,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,KM8JUCAG2FU968216
+2016,13365527,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2008,NY,1,6,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCP36858A050102
+2016,13365553,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2007,NY,1,4,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,JTMBD33V476042670
+2016,13365554,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,1,8,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3D7JV1EP6BG535064
+2016,13365555,CONVERTIBLE,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,1,10,DODGE,HUMAN,Unsafe Speed,ENVMT,Animal's Action,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1B3JR65Z23V501260
+2016,13365558,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2003,NY,1,8,DODGE,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1D4HS48N13F503786
+2016,13365559,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,4,MERCU,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4M2CU81739KJ05784
+2016,13365562,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2013,NY,1,4,HYUND,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,KMHHT6KD4DU094147
+2016,13365563,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2014,NY,1,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C4RJFBG5EC253810
+2016,13365564,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2015,NY,2,4,BMW,HUMAN,Unsafe Speed,HUMAN,Following Too Closely,Not Applicable,WBA5A7C58FD624954
+2016,13365565,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Diesel,2012,NY,6,6,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4JGDA2EBXCA097609
+2016,13365566,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1996,NY,1,6,TOYOT,HUMAN,Driver Inexperience*,HUMAN,Cell Phone (hand held),Not Applicable,4T1BF12K5TU121420
+2016,13365571,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,2,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JN8AZ08W85W430273
+2016,13365572,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,6,INFIN,HUMAN,Drugs (Illegal),HUMAN,Not Applicable,Not Applicable,JN1BV7AR1FM399554
+2016,13365573,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2000,NY,0,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JT2BG22K6Y0431591
+2016,13365574,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,West,Gas,2004,NY,1,4,TOYOT,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,JTDKB20U040109744
+2016,13365575,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2013,NY,2,6,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WBAFU7C57DDU72612
+2016,13365618,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,1,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2G1WD58C769140578
+2016,13365619,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2008,NY,1,6,HYUND,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,5NMSH73E38H228538
+2016,13365620,SUBURBAN,OMNIBUS - TAXI,Making Right Turn,Not Entered,South,Gas,2015,NY,1,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GNSKKKC3FR640432
+2016,13365621,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2010,NY,1,4,KIA,HUMAN,Driver Inattention/Distraction*,HUMAN,Following Too Closely,Not Applicable,KNDJT2A24A7115071
+2016,13365622,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2014,NY,2,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4AL3AP7EC143161
+2016,13365623,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2007,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",4T1BE46K07U102844
+2016,13365633,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2005,NY,5,4,SATUR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G8AJ52F05Z137808
+2016,13365634,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,East,Gas,2011,NY,3,4,KIA,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,KNAGM4A7XB5059291
+2016,13365660,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2007,NY,2,4,MITSU,HUMAN,Driver Inexperience*,HUMAN,Not Applicable,Not Applicable,4A3AB56F27E075607
+2016,13365671,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2014,NY,1,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",3GCUKREC2EG510128
+2016,13365672,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,West,Gas,2010,NY,1,4,HYUND,HUMAN,Unsafe Lane Changing,HUMAN,Driver Inattention/Distraction*,"Guide Rail - Not At End, Collision With Fixed Object",KMHDU4AD9AU830531
+2016,13365674,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,4,HYUND,HUMAN,Alcohol Involvement,HUMAN,Alcohol Involvement,"Other Object (Not Fixed)*, Collision With",KMHCN46C99U370470
+2016,13365676,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2002,NY,3,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2FMZA51422BB70571
+2016,13365677,SUBURBAN,PASSENGER OR SUBURBAN,Starting in Traffic,Not Entered,East,Gas,2006,NY,1,8,JEEP,VEHICLE,Accelerator Defective,HUMAN,Not Applicable,Not Applicable,1J8HR58N76C110825
+2016,13365687,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2015,NY,2,6,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4JGDF6EE4FA550520
+2016,13365688,SUBURBAN,PASSENGER OR SUBURBAN,Starting in Traffic,Not Entered,South,Gas,2008,NY,1,6,HYUND,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,5NMSG73D48H212732
+2016,13365695,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,West,Gas,2015,NY,1,4,NISSA,HUMAN,Alcohol Involvement,HUMAN,Backing Unsafely,"Other Motor Vehicle, Collision With",1N4AL3AP0FC170347
+2016,13365738,VAN TRUCK,AGRICULTURAL TRUCK,Going Straight Ahead,Not Entered,West,Diesel,2006,NY,2,8,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,1FDWE35P46DA25290
+2016,13365739,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2008,NY,1,4,NISSA,HUMAN,Driver Inattention/Distraction*,ENVMT,Glare,Not Entered,1N4AL21E28N529004
+2016,13365746,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2011,NY,3,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JN8AS5MV0BW280685
+2016,13365747,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2002,NY,1,5,SUZUK,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,JS3TD62V124159166
+2016,13365805,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,1,4,NISSA,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,JN8AS58V58W140621
+2016,13365811,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,1,4,CHEVR,ENVMT,Pavement Slippery,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1G1AT58H697280524
+2016,13365816,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,1,6,FORD,HUMAN,Unsafe Speed,HUMAN,Not Applicable,"Tree, Collision With Fixed Object",1FAFP55UX4G131955
+2016,13365817,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2002,NY,1,6,JEEP,VEHICLE,Tire Failure/Inadequate,ENVMT,Pavement Slippery,Not Applicable,1J4GL48K62W256852
+2016,13365818,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Avoiding Object in Roadway,Not Entered,West,Gas,2006,NY,1,4,KIA,HUMAN,Unsafe Lane Changing,HUMAN,Failure to Keep Right,Not Applicable,KNAFE121765341198
+2016,13365819,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2003,NY,1,8,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,3GNEK13T53G340375
+2016,13365820,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2009,NY,1,4,TOYOT,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,1NXBU40E79Z091852
+2016,13365822,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2011,NY,2,4,HYUND,ENVMT,Pavement Slippery,HUMAN,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",5NPEB4AC2BH044829
+2016,13365823,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,3,6,FORD,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,1FMHK8D89BGA40806
+2016,13365824,PICKUP TRUCK,AGRICULTURAL TRUCK,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,6,NISSA,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1N6AD06W68C439473
+2016,13365825,TRACTOR,AGRICULTURAL COMMERCIAL,Going Straight Ahead,Not Entered,West,Diesel,2016,NY,1,8,WE/ST,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5KKXAF005GPHC8099
+2016,13365826,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,4,CHEVR,ENVMT,Animal's Action,HUMAN,Unsafe Speed,Not Applicable,1G1AL15F777204528
+2016,13365827,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1999,NY,1,4,TOYOT,HUMAN,Unsafe Speed,HUMAN,Failure to Keep Right,"Overturned, Non-Collision",2T1BR12E9XC127990
+2016,13365856,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2012,NY,1,4,DODGE,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Tree, Collision With Fixed Object",1C3CDZAB5CN182280
+2016,13365860,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,2001,NY,1,4,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1G1JC524217137127
+2016,13365861,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Avoiding Object in Roadway,Not Entered,Southwest,Gas,2014,NY,2,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FA6P0H71E5354956
+2016,13365866,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2012,NY,1,6,CHEVR,HUMAN,Passing or Lane Usage Improper,HUMAN,Driver Inattention/Distraction*,Not Applicable,2G1WC5E37C1254677
+2016,13365867,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,3,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G1PF5S94B7182228
+2016,13365868,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2002,NY,1,6,JEEP,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Unsafe Speed,"Guide Rail - Not At End, Collision With Fixed Object",1J4GL48KX2W350118
+2016,13365891,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2011,NY,1,6,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2FMDK4JC3BBA18730
+2016,13365903,4 DOOR SEDAN,OMNIBUS - TAXI,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BK1EB2FU161742
+2016,13365904,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,South,Gas,2001,NY,1,6,HYUND,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,KMHWF35V71A440318
+2016,13365907,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,South,Gas,2003,NY,1,6,BUICK,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1G4HP52K034182530
+2016,13365926,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2011,NY,1,6,BMW,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,WBAKE5C53BE755046
+2016,13365927,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2015,NY,1,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KNDJP3A5XF7221004
+2016,13365932,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2013,NY,3,4,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,4T3ZA3BB0DU077067
+2016,13365933,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,1,4,MAZDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1YVFP80C335M37619
+2016,13365934,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2006,NY,1,6,FORD,HUMAN,Unsafe Speed,HUMAN,Passing or Lane Usage Improper,Not Applicable,1FMEU74E46ZA26352
+2016,13365935,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southeast,Gas,2010,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",1NXBU4EE3AZ361804
+2016,13365939,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,3,8,BMW,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,5UXFG8C55BLZ96259
+2016,13365940,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2012,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCP2F3XCA063421
+2016,13365946,SUBURBAN,PASSENGER OR SUBURBAN,Starting from Parking,Not Entered,South,Gas,2002,NY,1,8,JEEP,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1J8GW58N22C201189
+2016,13365947,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,South,Gas,2015,NY,1,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMCU9J93FUA34823
+2016,13365948,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,1998,NY,2,4,HONDA,HUMAN,Turning Improperly,HUMAN,Not Applicable,Not Applicable,1HGCG667XWA069511
+2016,13365949,4 DOOR SEDAN,ORGANIZATIONAL,Going Straight Ahead,Not Entered,South,Gas,2007,NY,2,6,LEXUS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTHCE96S770002350
+2016,13365955,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2007,NY,1,8,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,5N1AA08C77N713695
+2016,13365956,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2012,NY,3,6,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HNYD2H61CH544660
+2016,13365957,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2007,NY,1,5,VOLVO,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,YV1MS390872265502
+2016,13365958,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2014,NY,0,6,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WBA3B9G55ENR91362
+2016,13365966,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,6,INFIN,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,"Building/Wall, Collision With Fixed Object",JNKCV61F19M364341
+2016,13365976,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2015,NY,1,4,HONDA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,19XFB2F54FE272103
+2016,13365977,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2004,NY,1,4,AUDI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WAULC68E34A187755
+2016,13365981,TRACTOR,INTERNATIONAL REGISTRATION,Going Straight Ahead,Not Entered,South,Diesel,2012,NY,1,6,VOLVO,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4V4NC9EJ9CN542647
+2016,13365988,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Pedestrian, Collision With",1N4AL21E09N443191
+2016,13365989,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,2,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,1G1ZU648X4F200281
+2016,13365993,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2007,NY,2,8,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WDDNG86X37A145922
+2016,13365994,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,1,6,JEEP,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1J4GL48K53W615691
+2016,13365995,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,4T1BF1FK1FU895131
+2016,13365996,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2004,NY,1,6,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5UXFA13554LU34891
+2016,13365999,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2014,NY,1,6,LEXUS,HUMAN,Not Applicable,HUMAN,Following Too Closely,Not Applicable,JTHBK1GG9E2145317
+2016,13366000,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,3,4,VOLKS,HUMAN,Following Too Closely,HUMAN,Following Too Closely,"Other Motor Vehicle, Collision With",WVWGV7AJ1DW127326
+2016,13366001,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Diesel,2014,NY,4,4,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WBA3K5C58EK300132
+2016,13366010,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2013,NY,1,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Driver Inattention/Distraction*,Not Applicable,2T3RFREV9DW098980
+2016,13366011,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2014,NY,1,4,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WDDSJ4GB2EN106390
+2016,13366012,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2011,NY,1,4,HYUND,HUMAN,Alcohol Involvement,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",5NPEC4AC2BH215673
+2016,13366013,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2012,NY,0,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3FAHP0JG3CR307392
+2016,13366014,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2012,NY,0,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2G1WG5E39C1166086
+2016,13366025,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,4,SUBAR,HUMAN,Passing or Lane Usage Improper,ENVMT,Pavement Slippery,Not Applicable,4S4BP62C257387966
+2016,13366035,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,3,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2G1WF52E449358589
+2016,13366037,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2007,NY,1,8,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1FTPW14597FB50091
+2016,13366039,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Overtaking/Passing,Not Entered,North,Gas,2006,NY,3,4,SUBAR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,JF1GD676X6H502739
+2016,13366044,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2014,NY,4,6,HONDA,HUMAN,Driver Inattention/Distraction*,ENVMT,Pavement Slippery,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",5FNRL5H48EB041648
+2016,13366051,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2008,NY,2,4,SATUR,HUMAN,Unsafe Speed,HUMAN,Passing or Lane Usage Improper,Not Applicable,W08AT671585127184
+2016,13366061,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2005,NY,1,6,BUICK,HUMAN,Unsafe Speed,HUMAN,Unsafe Lane Changing,Not Applicable,1G4HP52K15U278380
+2016,13366069,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,1995,NY,1,4,HONDA,HUMAN,Unsafe Speed,HUMAN,Failure to Keep Right,Not Applicable,1HGEJ1129SL008867
+2016,13366077,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,2,5,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1GCDT146X48213736
+2016,13366078,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,1,4,NISSA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Overturned, Non-Collision",3N1AB61EX9L656768
+2016,13366081,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,6,MITSU,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Tree, Collision With Fixed Object",4A3AK34T37E043651
+2016,13366087,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,2,4,SATUR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1G8AJ52F94Z188996
+2016,13366091,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,North,Gas,1997,NY,1,8,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Light Support/Utility Pole, Collision With Fixed Object",1GCGK29JXVE259895
+2016,13366117,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2004,NY,2,6,JEEP,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1J4GL58K64W170952
+2016,13366120,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,1,4,SUBAR,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Entered,4S3BH675X37645305
+2016,13366132,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2005,NY,1,6,DODGE,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Sign Post, Collision With Fixed Object",1D4GP24R85B358721
+2016,13366136,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2012,NY,1,4,TOYOT,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,5TFPX4EN0CX007788
+2016,13366147,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2006,NY,1,4,VOLKS,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,WVWAK73C16P201368
+2016,13366148,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2008,NY,2,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4BA41EX8C801977
+2016,13366152,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2007,NY,1,4,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,JTNBB46K673023161
+2016,13366153,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2007,NY,1,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KMHDU46DX7U122001
+2016,13366157,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,1,6,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2FMZA52433BB76203
+2016,13366166,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,1,4,CHRYS,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1C3CCBBB7CN119710
+2016,13366167,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2006,NY,1,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMYU93116KC81413
+2016,13366185,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Overtaking/Passing,Not Entered,West,Gas,2014,NY,1,4,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,3FA6P0T95ER263212
+2016,13366186,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2012,NY,1,6,GMC,HUMAN,Unsafe Speed,HUMAN,Not Applicable,"Overturned, Non-Collision",1GTN2TEXXCZ201461
+2016,13366188,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,1,4,VOLKS,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,WVGBV7AX1CW084003
+2016,13366189,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,1,4,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,JHMES95654S001140
+2016,13366195,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,West,Gas,2009,NY,4,4,TOYOT,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2T1BU40E19C122238
+2016,13366196,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2007,NY,1,6,CHEVR,HUMAN,Not Applicable,ENVMT,Animal's Action,Not Applicable,1GNDT13S472249158
+2016,13366197,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2000,NY,3,4,DODGE,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1B3ES46C6YD717601
+2016,13366200,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2012,NY,5,6,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2C4RDGDG9CR408521
+2016,13366201,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2001,NY,1,8,CADIL,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1G6KF57971U199974
+2016,13366204,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,4,KIA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,KNDPBCACXF7743607
+2016,13366767,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2002,NY,0,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,,2HGES16552H514631
+2016,13366772,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2006,NY,1,4,TOYOT,HUMAN,Unsafe Speed,HUMAN,Not Applicable,"Tree, Collision With Fixed Object",2T1BR32E86C562218
+2016,13366773,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,South,Gas,2004,NY,1,4,VOLKS,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,3VWRA69M14M044862
+2016,13366774,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2011,NY,0,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3FAHP0CG7BR260914
+2016,13366775,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,South,Gas,2015,NY,1,4,GMC,HUMAN,Driver Inattention/Distraction*,HUMAN,Backing Unsafely,Not Applicable,2GKFLXEK1F6211961
+2016,13366784,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,1,6,NISSA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Driver Inattention/Distraction*,Not Applicable,5N1AR2MM1FC691755
+2016,13366785,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2010,NY,1,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G1ZE5E78A4134673
+2016,13366786,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2009,NY,1,4,HYUND,HUMAN,Turning Improperly,HUMAN,Driver Inattention/Distraction*,Not Applicable,KMHDU46D19U653901
+2016,13366793,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2013,NY,1,6,HYUND,HUMAN,Failure to Yield Right-of-Way,HUMAN,Driver Inattention/Distraction*,Not Applicable,KMHGC4DD6DU213491
+2016,13366794,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Diesel,2003,NY,1,4,VOLKS,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,9BWBP61JX34010083
+2016,13366795,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FAHP2F82DG102250
+2016,13366796,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,1,4,FORD,ENVMT,Obstruction/ Debris,HUMAN,Not Applicable,Not Applicable,1FAFP34Z33W269567
+2016,13366799,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,1,6,JEEP,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1J4GW48S13C611839
+2016,13366800,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2010,NY,1,6,LEXUS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTHBK1EG8A2401735
+2016,13366802,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,8,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,3GCUKSEC4FG201477
+2016,13366805,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2010,NY,1,6,DODGE,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2D4RN4DE1AR310979
+2016,13366825,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,4,4,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1HGCP2F39CA143874
+2016,13366826,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2007,NY,3,6,CHEVR,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,2G1WB58N979272783
+2016,13366842,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,3,6,FORD,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1FMYU92194DA10540
+2016,13366843,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2008,NY,2,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",JF1GH61678H804294
+2016,13366844,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2007,NY,2,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1J8GR48K87C675422
+2016,13366845,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2000,NY,1,4,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1FAFP343XYW355106
+2016,13366846,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,North,Gas,2008,NY,2,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GCEC14088Z126479
+2016,13366851,4 DOOR SEDAN,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,North,Gas,2006,NY,1,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1G1ZT53806F127827
+2016,13366852,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2010,NY,1,6,NISSA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1N4AA5AP8AC870899
+2016,13366853,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Starting in Traffic,Not Entered,South,Gas,1999,NY,1,6,CHRYS,HUMAN,Driver Inattention/Distraction*,HUMAN,Failure to Yield Right-of-Way,Not Applicable,2C3HC56G8XH238684
+2016,13366854,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2001,NY,1,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GCDT19WX18127430
+2016,13366859,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,1996,NY,1,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,2T1BB02E9TC174154
+2016,13366860,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2013,NY,1,4,HONDA,HUMAN,Aggressive Driving/Road Rage,HUMAN,Fatigued/Drowsy,Not Applicable,1HGCR2F52DA209825
+2016,13366862,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2010,NY,2,6,DODGE,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1D4PU2GKXAW141116
+2016,13366869,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2001,NY,1,4,VOLKS,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,3VWCK21C61M470931
+2016,13366872,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,1,6,JEEP,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1C4AJWBG6DL639180
+2016,13366876,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2015,NY,1,4,AUDI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WAUGFAFC5FN023612
+2016,13366886,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,North,Gas,2014,NY,2,6,BMW,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,WBA3B9G53ENR79484
+2016,13366887,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,East,Gas,2007,NY,1,6,BMW,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,WBAVA33527PG52678
+2016,13366888,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,4,MITSU,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JA32W8FV3FU015214
+2016,13366889,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northeast,Gas,2008,NY,4,4,HONDA,HUMAN,Turning Improperly,HUMAN,Driver Inattention/Distraction*,Not Applicable,1HGCP26818A043447
+2016,13366891,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,2002,NY,1,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,"Tree, Collision With Fixed Object",JF1GG65532H816051
+2016,13366892,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southwest,Gas,2010,NY,1,4,NISSA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",1N4CL2AP1AC185600
+2016,13366893,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2013,NY,1,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",5XXGN4A71DG159200
+2016,13366898,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southeast,Gas,2004,NY,1,6,CHEVR,ENVMT,View Obstructed/Limited,HUMAN,Not Applicable,Not Applicable,1GNDT13S742318470
+2016,13366905,BUS (OMNIBUS),POLITICAL SUBDIVISION,Stopped in Traffic,Not Entered,East,Diesel,2010,NY,6,6,GILLI,HUMAN,Not Applicable,HUMAN,Not Applicable,,15GGD2712A1177845
+2016,13366913,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,4,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,5J6RE48349L065020
+2016,13366914,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2002,NY,2,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMZU73K12ZC89322
+2016,13366931,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2010,NY,1,4,PONTI,ENVMT,Pavement Slippery,HUMAN,Not Applicable,"Sign Post, Collision With Fixed Object",5Y2SM6E00AZ400209
+2016,13366939,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,6,4,MITSU,ENVMT,Obstruction/ Debris,HUMAN,Failure to Keep Right,Not Applicable,4A4AP3AU5FE042039
+2016,13366941,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,1,4,KIA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,5XYKTCA66CG235201
+2016,13366949,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2006,NY,3,6,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1FMDK01106GA57801
+2016,13366951,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2010,NY,2,4,JEEP,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1J4NF2GB6AD508730
+2016,13366952,TRACTOR,TRACTOR - REGULAR,Going Straight Ahead,Not Entered,North,Diesel,1991,NY,1,6,INTER,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HSFHACR1MC046994
+2016,13366960,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,South,Gas,2013,NY,1,4,HYUND,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,5NPDH4AE6DH256860
+2016,13366961,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2005,NY,3,6,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1D4GP24R65B314118
+2016,13366962,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northwest,Gas,2011,NY,1,4,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1G1ZB5E17BF160773
+2016,13366970,4 DOOR SEDAN,OMNIBUS - LIVERY,Backing,Not Entered,East,Gas,2008,NY,1,6,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Backing Unsafely,Not Applicable,2G1WT58N789150955
+2016,13366990,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2013,NY,1,4,HYUND,ENVMT,Pavement Slippery,HUMAN,Driver Inexperience*,Not Applicable,KMHCU4AE0DU294223
+2016,13366991,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2006,NY,1,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3GNDA13DX6S512411
+2016,13366994,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2003,NY,2,4,NISSA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,"Snow Embankment, Collision With Fixed Object",3N1CB51D03L700407
+2016,13366995,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4CL21E28C247238
+2016,13367001,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,6,HYUND,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,KM8JN12D35U171509
+2016,13367017,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2002,NY,1,4,HONDA,HUMAN,Lost Consciousness,HUMAN,Unsafe Speed,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1HGCG66512A003454
+2016,13367018,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,2,4,NISSA,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,3N1BC13EX9L391951
+2016,13367025,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2011,NY,1,4,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Driver Inattention/Distraction*,Not Applicable,5J6RE4H33BL018437
+2016,13367026,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,6,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GCRKREA9CZ182806
+2016,13367027,PICKUP TRUCK,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2002,NY,1,6,CHEVR,HUMAN,Alcohol Involvement,HUMAN,Unsafe Lane Changing,Not Applicable,1GCCS14W828217523
+2016,13367035,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,2,4,HONDA,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,1HGCP26439A108104
+2016,13367036,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2014,NY,1,6,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5FNRL5H61EB114120
+2016,13367038,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,1,4,NISSA,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,3N1AB7APXEY331400
+2016,13367039,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2010,NY,1,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1J4PR4GK2AC119861
+2016,13367050,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,West,Gas,2002,NY,1,6,FORD,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,2FMZA52482BA28708
+2016,13367051,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2012,NY,0,4,CHRYS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C3CCBBB6CN130486
+2016,13367054,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,4,NISSA,HUMAN,Alcohol Involvement,HUMAN,Failure to Keep Right,"Light Support/Utility Pole, Collision With Fixed Object",1N4AL11D85C212434
+2016,13367055,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,3,6,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,,2HKYF18413H602511
+2016,13367057,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2006,NY,1,5,CHEVR,HUMAN,Prescription Medication,HUMAN,Unsafe Speed,Not Applicable,1GCDT136468268476
+2016,13367058,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2001,NY,1,8,INFIN,HUMAN,Failure to Yield Right-of-Way,HUMAN,Traffic Control Device Disregarded,Not Applicable,JNKBY31A01M100988
+2016,13367059,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2002,NY,1,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GNDT13S422454438
+2016,13367060,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2014,NY,2,4,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1FMCU9J95EUC28476
+2016,13367064,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2005,NY,2,4,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,KL1TD52605B351395
+2016,13367065,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2011,NY,1,6,CHEVR,HUMAN,Following Too Closely,HUMAN,Unsafe Speed,Not Applicable,2G1WG5EK7B1116437
+2016,13367067,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2012,NY,1,4,KIA,HUMAN,Fell Asleep,HUMAN,Unsafe Lane Changing,Not Applicable,5XXGM4A76CG037482
+2016,13367068,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2005,NY,1,4,CHEVR,HUMAN,Cell Phone (hand held),HUMAN,Passing or Lane Usage Improper,"Light Support/Utility Pole, Collision With Fixed Object",1G1AK12F957615224
+2016,13367088,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1991,NY,1,4,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",2T1AE97A8MC096366
+2016,13367089,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1999,NY,2,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BF22K2XU086461
+2016,13367090,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2010,NY,1,4,HYUND,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,KM8JU3AC2AU105471
+2016,13367091,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2010,NY,2,6,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5FNRL3H48AB091870
+2016,13367106,SUBURBAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,West,Gas,2010,NY,3,6,CHEVR,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1GNLVFED3AJ241647
+2016,13367107,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HKRM4H57FH606555
+2016,13367110,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2000,NY,1,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,4T1BG22KXYU974714
+2016,13367111,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2015,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BD1EB9FU045433
+2016,13367112,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2000,NY,1,6,NISSA,HUMAN,Cell Phone (hand held),HUMAN,Not Applicable,Not Applicable,JN8AR07Y6YW434555
+2016,13367116,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4AL11D26N429192
+2016,13367123,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2013,NY,1,4,SUBAR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,4S3BMBC65D3039471
+2016,13367124,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2006,NY,2,6,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KM8SC73D56U038358
+2016,13367134,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,East,Gas,2007,NY,1,8,BMW,HUMAN,Not Applicable,HUMAN,Unsafe Lane Changing,"Other Motor Vehicle, Collision With",WBANB53507CP05875
+2016,13367135,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,2,6,LEXUS,HUMAN,Not Applicable,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",JTHBK1GG8F2162076
+2016,13367140,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Northeast,Gas,2009,NY,2,4,MITSU,ENVMT,View Obstructed/Limited,HUMAN,Not Applicable,Not Applicable,JA3AU86W99U015393
+2016,13367143,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2004,NY,1,4,NISSA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,3N1CB51D14L848826
+2016,13367144,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T4BF1FK7DR285883
+2016,13367145,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2013,NY,2,4,FORD,HUMAN,Driver Inexperience*,HUMAN,Failure to Yield Right-of-Way,Not Applicable,3FA6P0HR2DR109791
+2016,13367146,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,6,CADIL,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3GYFNEE34FS570719
+2016,13367147,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2000,NY,1,4,ME/BE,HUMAN,Passing or Lane Usage Improper,HUMAN,Alcohol Involvement,"Building/Wall, Collision With Fixed Object",WDBKK47FXYF168045
+2016,13367182,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southwest,Gas,2003,NY,2,4,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,3FAFP31333R121602
+2016,13367185,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,1,6,CADIL,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1G6DH5E56D0159433
+2016,13367187,SUBURBAN,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,6,CHRYS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2C4RC1BGXFR582539
+2016,13367188,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,8,RAM,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1C6RR7MT2FS702089
+2016,13367191,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,3,8,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C4RJFDJ9FC659390
+2016,13367192,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,North,Gas,2014,NY,3,4,TOYOT,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,4T4BF1FK0ER398995
+2016,13367202,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTEGF21A830119642
+2016,13367207,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2002,NY,3,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Entered,4T1BE32K72U569090
+2016,13367210,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2015,NY,0,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,"Tree, Collision With Fixed Object",1C4RJFBG6FC711632
+2016,13367211,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,1,6,CHEVR,HUMAN,Alcohol Involvement,HUMAN,Driver Inattention/Distraction*,"Tree, Collision With Fixed Object",2G1WH55K349151476
+2016,13367212,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2011,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,19XFA1F83BE001115
+2016,13367213,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,North,Gas,2008,NY,2,6,SATUR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1G8ZS57N58F159227
+2016,13367214,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2013,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BF1FK5DU709149
+2016,13367215,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,West,Gas,2015,NY,1,4,HONDA,HUMAN,Unsafe Lane Changing,HUMAN,Failure to Yield Right-of-Way,Not Applicable,2HKRM4H39FH626904
+2016,13367219,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2009,NY,1,4,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1B3LC46BX9N528294
+2016,13367220,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,1,8,CADIL,HUMAN,Following Too Closely,HUMAN,Unsafe Lane Changing,Not Applicable,1GYEK63N32R116151
+2016,13367223,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,2,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KMHDH4AEXDU584042
+2016,13367225,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,6,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1D8GU58K68W153532
+2016,13367226,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,5,HUMME,HUMAN,Failure to Yield Right-of-Way,HUMAN,Traffic Control Device Disregarded,Not Applicable,5GTDN13E578114905
+2016,13367228,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,1,6,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1D4PU6GX6BW544045
+2016,13367229,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2004,NY,1,8,FORD,HUMAN,Unsafe Speed,HUMAN,Failure to Keep Right,"Tree, Collision With Fixed Object",1FAFP42X54F223344
+2016,13367233,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,2,4,AUDI,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Applicable,WA1LFAFP1CA062537
+2016,13367234,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,6,FORD,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Applicable,1FMZU74E65UB36686
+2016,13367239,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,1,4,NISSA,HUMAN,Fell Asleep,HUMAN,Not Applicable,Not Applicable,1N4AL3AP1FC469541
+2016,13367245,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,1991,NY,0,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCB7658MA220278
+2016,13367246,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,Southwest,Gas,2015,NY,1,6,CHEVR,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,1GNKVGKD2FJ170387
+2016,13367247,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,1995,NY,0,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JHMCD5652SC008540
+2016,13367312,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,2,4,HONDA,HUMAN,Cell Phone (hand held),HUMAN,Passing or Lane Usage Improper,,2HGES16544H546814
+2016,13367317,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2001,NY,1,4,OLDSM,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,"Curbing, Collision With Fixed Object",1G3NK52T21C255513
+2016,13367329,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2010,NY,2,4,HONDA,HUMAN,Traffic Control Device Disregarded,HUMAN,Driver Inattention/Distraction*,Not Applicable,JHMGE8H23AS002771
+2016,13367330,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,3,6,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WDDLJ6HB4FA155212
+2016,13367335,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2008,NY,1,8,JEEP,HUMAN,Turning Improperly,HUMAN,Not Applicable,Not Applicable,1J8HR48N48C126963
+2016,13367336,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,1,6,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2D4RN3DG5BR602793
+2016,13367339,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2009,NY,1,4,SUBAR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,JF2SH63699G783216
+2016,13367341,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,1,6,JEEP,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1C4PJMDS8EW167967
+2016,13367342,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2014,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,,2HKRM4H34EH617154
+2016,13367354,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2003,NY,3,4,HYUND,HUMAN,Following Too Closely,HUMAN,Unsafe Speed,Not Applicable,KMHDN45D63U571491
+2016,13367355,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,6,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KNDJE723687473197
+2016,13367362,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2005,NY,1,4,MITSU,HUMAN,Alcohol Involvement,HUMAN,Not Applicable,Not Applicable,JA3AJ26E75U013679
+2016,13367363,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2009,NY,3,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2G1WT57N591323079
+2016,13367369,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2008,NY,1,4,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1G1AK58F987286768
+2016,13367376,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,2,4,DODGE,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1C3CDFBA0DD154821
+2016,13367377,SUBURBAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,South,Gas,2003,NY,1,6,JEEP,HUMAN,Alcohol Involvement,HUMAN,Unsafe Lane Changing,Not Applicable,1J4GL48K23W732662
+2016,13367378,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,Southeast,Gas,2006,NY,2,6,BUICK,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2G4WD582561119933
+2016,13367381,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Avoiding Object in Roadway,Not Entered,North,Gas,2009,NY,1,4,FORD,HUMAN,Unsafe Speed,HUMAN,Reaction to Other Uninvolved Vehicle,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1FAHP35N09W229024
+2016,13367382,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2007,NY,2,6,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KNDMB133176135681
+2016,13367384,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2000,NY,1,4,PONTI,HUMAN,Alcohol Involvement,HUMAN,Unsafe Speed,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1G2JB1241Y7286095
+2016,13367394,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2014,NY,1,4,SUBAR,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,4S3BMBA64E3034525
+2016,13367395,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,East,Gas,2002,NY,1,8,CHEVR,ENVMT,Obstruction/ Debris,HUMAN,Not Applicable,Not Applicable,1GCHK29U22E217277
+2016,13367397,SUBURBAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,West,Gas,2006,NY,1,6,DODGE,HUMAN,Unsafe Lane Changing,HUMAN,Driver Inattention/Distraction*,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1D4GP45R26B737967
+2016,13367398,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1995,NY,1,4,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JH4DC2389SS001014
+2016,13367402,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2012,NY,5,4,KIA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Crash Cushion, Collision With Fixed Object",5XYKTCA6XCG272946
+2016,13367403,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2014,NY,2,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FM5K8F88EGB34471
+2016,13367408,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,5,VOLKS,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Entered,WVWDA71KX8W123370
+2016,13367409,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2007,NY,1,4,MAZDA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",JM1BK32G671636540
+2016,13367411,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2014,NY,2,4,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1FMCU9G94EUE45752
+2016,13367418,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,1,6,CHRYS,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2C3AE76K44H694334
+2016,13367463,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2000,NY,1,4,FORD,HUMAN,Following Too Closely,HUMAN,Unsafe Lane Changing,Not Applicable,1FAFP34P1YW254250
+2016,13367464,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,1,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,"Barrier, Collision With Fixed Object",2FMZA514X3BB76748
+2016,13367467,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2006,NY,1,6,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5FNRL38226B103422
+2016,13367468,4 DOOR SEDAN,SPECIAL PASSENGER,Merging,Not Entered,East,Gas,2007,NY,1,6,TOYOT,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,4T1BK46K27U026438
+2016,13367471,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2012,NY,1,8,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WBAKB8C56CC962926
+2016,13367472,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2010,NY,1,8,DODGE,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,2B3CJ5DT9AH180072
+2016,13367497,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,2002,NY,1,6,CHEVR,HUMAN,Cell Phone (hand held),HUMAN,Not Applicable,Not Applicable,2G1WH55KX29139290
+2016,13367498,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2015,NY,2,4,TOYOT,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Sign Post, Collision With Fixed Object",JTMRFREV6FD104475
+2016,13367499,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2007,NY,2,4,SATUR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G8AM15F97Z116339
+2016,13367516,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,West,Gas,2012,NY,1,6,CHEVR,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,3GNFL4E53CS655593
+2016,13367517,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2013,NY,0,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4AL3AP2DN433617
+2016,13367525,PICKUP TRUCK,COMMERCIAL,Changing Lanes,Not Entered,South,Gas,2003,NY,3,8,FORD,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1FTNX21L63EB26991
+2016,13367526,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2007,NY,4,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JHLRE48507C033690
+2016,13367528,SUBURBAN,PASSENGER OR SUBURBAN,Merging,Not Entered,South,Gas,2006,NY,3,6,JEEP,HUMAN,Passing or Lane Usage Improper,HUMAN,Reaction to Other Uninvolved Vehicle,Not Applicable,1J4GR48K46C177007
+2016,13367535,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2CNDL43F386340807
+2016,13367545,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,2,6,PONTI,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1G2WP52K83F115582
+2016,13367556,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2007,NY,3,6,FORD,HUMAN,Following Too Closely,HUMAN,Unsafe Speed,Not Applicable,1FAFP56U87A197149
+2016,13367557,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2015,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T1BURHEXFC280137
+2016,13367560,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,1,6,PONTI,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1GMDU23E83D271776
+2016,13367561,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,1,8,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C6RD7FT6CS106393
+2016,13367562,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,1,4,SUBAR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,4S4BP61C186343436
+2016,13367563,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,4,CHEVR,ENVMT,Lane Marking Improper/Inadequate,HUMAN,Not Applicable,Not Applicable,1G11C5SA4DF122290
+2016,13367564,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2011,NY,1,4,FORD,ENVMT,Lane Marking Improper/Inadequate,HUMAN,Not Applicable,Not Applicable,1FAHP3FN8BW199680
+2016,13367566,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,6,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1FAFP53275A142398
+2016,13367569,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2013,NY,1,6,GMC,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2GKFLZE34D6137937
+2016,13367573,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2011,NY,1,6,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Tree, Collision With Fixed Object",1GCNCPEX8BZ462302
+2016,13367574,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,West,Diesel,2002,NY,1,8,FORD,HUMAN,Following Too Closely,ENVMT,Pavement Slippery,Not Applicable,1FTSW31F52EC06433
+2016,13367575,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,2,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3FAHP0JA2CR325748
+2016,13367576,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GCVKREC8FZ353145
+2016,13367577,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2006,NY,1,6,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2G1WB58KX69381970
+2016,13367581,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2001,NY,1,8,DODGE,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Sign Post, Collision With Fixed Object",1B7HC16Y11S336615
+2016,13367582,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2007,NY,1,6,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1FAHP271X7G103717
+2016,13367590,SUBURBAN,ORGANIZATIONAL,Going Straight Ahead,Not Entered,Northeast,Gas,2007,NY,1,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1GNDT13S672268374
+2016,13367595,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2002,NY,1,4,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JH4DC53092C023469
+2016,13367597,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2013,NY,1,6,LINCO,ENVMT,Animal's Action,HUMAN,Unsafe Lane Changing,"Fence, Collision With Fixed Object",2LMDJ8JK0DBL46728
+2016,13367622,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,1,4,TOYOT,ENVMT,Pavement Slippery,VEHICLE,Tire Failure/Inadequate,"Light Support/Utility Pole, Collision With Fixed Object",JTEHH20V436095727
+2016,13367629,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2009,NY,1,6,HONDA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,5FNRL38239B047544
+2016,13367631,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,East,Gas,2005,NY,1,4,TOYOT,HUMAN,Unsafe Speed,HUMAN,Passing or Lane Usage Improper,Not Applicable,2T1KR32E15C440332
+2016,13367636,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,East,Gas,2002,NY,2,4,HONDA,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,1HGEM21982L060677
+2016,13367637,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2006,NY,2,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4BA41E96C801806
+2016,13367642,SUBURBAN,PASSENGER OR SUBURBAN,Merging,Not Entered,West,Gas,2012,NY,1,6,NISSA,HUMAN,Passing or Lane Usage Improper,HUMAN,Unsafe Lane Changing,Not Applicable,5N1AR1NB2CC605212
+2016,13367643,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,2,6,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5J8TB4H39FL029888
+2016,13367646,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,4,SUBAR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,JF2GPAMC8F8256077
+2016,13367649,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2011,NY,2,4,CHEVR,HUMAN,Driver Inexperience*,ENVMT,Pavement Slippery,Not Applicable,1G1ZC5E18BF252665
+2016,13367651,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2006,NY,1,4,SUZUK,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,KL5JD56Z86K314865
+2016,13367662,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,West,Diesel,2002,NY,1,8,FORD,HUMAN,Unsafe Speed,VEHICLE,Tire Failure/Inadequate,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",1FTSW31F52EC06433
+2016,13367668,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,6,BUICK,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2G4WS52J051128642
+2016,13367672,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2012,NY,1,4,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1G1JC5SHXC4122060
+2016,13367673,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2011,NY,1,6,JEEP,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1J4RR4GGXBC723390
+2016,13367674,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2010,NY,1,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GCSKSE35AZ201746
+2016,13367675,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Southeast,Gas,2015,NY,1,4,TOYOT,HUMAN,Passing or Lane Usage Improper,HUMAN,Lost Consciousness,"Barrier, Collision With Fixed Object",2T1BURHE0FC457679
+2016,13367676,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,Northeast,Gas,2015,NY,1,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2G11Z5SL1F9116149
+2016,13367681,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2006,NY,1,4,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,KL1TD66666B533488
+2016,13367682,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,West,Diesel,2010,NY,2,8,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FTWX3BR0AEA28579
+2016,13367690,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,6,CADIL,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,3GYFNEE32FS614538
+2016,13367691,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2001,NY,1,6,ISUZU,HUMAN,Failure to Keep Right,ENVMT,Pavement Slippery,"Other Motor Vehicle, Collision With",4S2DM58W114321250
+2016,13367692,BUS (OMNIBUS),INTERNATIONAL REGISTRATION,Going Straight Ahead,Not Entered,East,Diesel,2012,NY,9,6,VANHO,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",YE2CC2AB7C2047850
+2016,13367700,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2011,NY,1,6,ME/BE,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,WDCGG8HB3BF630166
+2016,13367701,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2011,NY,1,4,CHEVR,HUMAN,Traffic Control Device Disregarded,ENVMT,Glare,Not Applicable,1G1ZB5E16BF310761
+2016,13367702,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1995,NY,2,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G2HX52K6S4273020
+2016,13367705,SUBURBAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,West,Gas,2012,NY,1,4,HYUND,HUMAN,Unsafe Lane Changing,HUMAN,Failure to Yield Right-of-Way,"Other Fixed Object*, Collision With Fixed Object",KM8JUCAC8CU451639
+2016,13367707,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5N1AT2MV6FC898488
+2016,13367708,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,Southeast,Gas,2000,NY,1,4,NISSA,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1N4DL01D8YC220173
+2016,13367709,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southeast,Gas,2006,NY,2,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KMHDN46DX6U373211
+2016,13367739,SUBURBAN,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,4,BMW,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,5UXXW3C58F0M87803
+2016,13367749,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2009,NY,1,4,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,4T1BE46K59U356259
+2016,13367750,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2006,NY,1,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1J4GL48K96W246127
+2016,13367753,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Northeast,Gas,2016,NY,1,4,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,2HKRM4H54GH602576
+2016,13367754,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2014,NY,1,6,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WDDGF8AB2EA960181
+2016,13367755,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2002,NY,1,4,HONDA,HUMAN,Turning Improperly,HUMAN,Failure to Yield Right-of-Way,Not Applicable,1HGEM22562L096475
+2016,13367756,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HGFG12628H571186
+2016,13367757,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,4,TOYOT,HUMAN,Driver Inattention/Distraction*,ENVMT,Glare,Not Applicable,4T1BE32K55U603368
+2016,13367766,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,Northwest,Gas,2015,NY,1,4,HYUND,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,KMHDH4AE0FU447484
+2016,13367767,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2002,NY,2,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GNDX03E42D107463
+2016,13367770,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2011,NY,1,4,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,3N1BC1AP2BL393641
+2016,13367771,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2014,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HKRM4H71EH631645
+2016,13367772,SUBURBAN,OMNIBUS-SPECIAL (PRIVATE RENTAL),Changing Lanes,Not Entered,West,Gas,2015,NY,1,6,JEEP,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1C4RJFBG8FC206028
+2016,13367773,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,1,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G1ZS52F94F152774
+2016,13367776,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,Northeast,Gas,2011,NY,2,6,CADIL,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,3GYFNDEYXBS513229
+2016,13367777,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,2003,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTEGF21AX30097448
+2016,13367780,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2008,NY,1,6,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1HGCP368X8A014521
+2016,13367781,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2016,NY,1,4,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,,1C4PJMABXGW151373
+2016,13367807,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2014,NY,6,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5TDJK3DCXES071585
+2016,13367808,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,South,Gas,2009,NY,1,6,VOLVO,HUMAN,Unsafe Lane Changing,HUMAN,Driver Inattention/Distraction*,Not Applicable,YV1AS982291102202
+2016,13367809,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,1,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GCRKSE76CZ294376
+2016,13369316,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,2,8,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3D7HA18Z52G208355
+2016,13369317,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2004,NY,1,4,VOLKS,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Other Motor Vehicle, Collision With",WVWPD63B24E265417
+2016,13369320,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northwest,Gas,2012,NY,1,4,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2HGFG4A50CH705017
+2016,13369413,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,1,4,HYUND,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,KMHDH4AE9CU307428
+2016,13369414,4 DOOR SEDAN,OMNIBUS - TAXI,Stopped in Traffic,Not Entered,South,Gas,2008,NY,1,8,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2FAHP71V28X104395
+2016,13369469,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2003,NY,2,4,HONDA,HUMAN,Unknown,HUMAN,Unsafe Speed,Not Applicable,1HGCM553X3A031757
+2016,13369470,SUBURBAN,PASSENGER OR SUBURBAN,Other,Not Entered,West,Gas,2010,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T3BF4DV8AW069648
+2016,13369476,SUBURBAN,OMNIBUS - TAXI,Going Straight Ahead,Not Entered,West,Gas,2013,NY,1,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMCU9GX3DUA87721
+2016,13369477,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Northwest,Gas,2015,NY,2,8,LA/RO,HUMAN,Turning Improperly,HUMAN,Not Applicable,Not Applicable,SALGS2TF9FA227140
+2016,13369483,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2013,NY,2,4,TOYOT,ENVMT,Glare,HUMAN,Not Applicable,Not Entered,JTDKN3DU3D5579454
+2016,13369496,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,4,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,,1G1PC5SB3D7210048
+2016,13369500,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2016,NY,1,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,JF2SJAXC4GH430204
+2016,13369501,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,1,8,GMC,HUMAN,Driver Inattention/Distraction*,HUMAN,Unknown,Not Entered,1GTR2VE38BZ388160
+2016,13369508,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2006,NY,1,4,NISSA,VEHICLE,Brakes Defective,HUMAN,Not Applicable,,1N4AL11E36N311483
+2016,13369509,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2012,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,,19XFB2F8XCE324209
+2016,13369514,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2006,NY,1,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GNDT13S862115753
+2016,13369515,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2009,NY,1,4,TOYOT,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,2T1KU40E39C004207
+2016,13369517,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,2,6,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1FMZU73E04UC19983
+2016,13369518,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2009,NY,2,4,SUZUK,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,JS3TD044594100133
+2016,13369519,4 DOOR SEDAN,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,South,Gas,2005,NY,1,4,TOYOT,ENVMT,Animal's Action,HUMAN,Not Applicable,,2T1BR32E55C463337
+2016,13369521,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,Northwest,Gas,2011,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",JHMZF1D49BS013053
+2016,13369522,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,Northwest,Gas,2013,NY,1,4,GMC,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2GKFLVEK9D6301022
+2016,13369524,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2010,NY,1,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,1G1ZD5EB4AF241893
+2016,13369525,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2014,NY,1,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,3FA6P0H71ER278040
+2016,13369526,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2001,NY,1,8,CHEVR,VEHICLE,Other*,HUMAN,Not Applicable,Not Applicable,1GNEK13T41J303538
+2016,13369527,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2014,NY,2,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C4RJFAG5EC414965
+2016,13369529,CONVERTIBLE,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,South,Gas,2014,NY,1,6,FORD,HUMAN,Following Too Closely,HUMAN,Driver Inattention/Distraction*,Not Applicable,1ZVBP8EM1E5238512
+2016,13369530,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2005,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCM56495A092334
+2016,13369531,PICKUP TRUCK,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southeast,Gas,2000,NY,1,4,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Failure to Yield Right-of-Way,Not Applicable,1GCCS1457YK208346
+2016,13369535,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2009,NY,1,4,NISSA,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Entered,1N4AL21E79N478441
+2016,13369536,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2007,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,JTNBE46K773102958
+2016,13369537,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,6,LEXUS,HUMAN,Driver Inattention/Distraction*,HUMAN,Driver Inattention/Distraction*,Not Applicable,2T2BK1BA9FC323035
+2016,13369538,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2011,NY,3,8,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1J4RR5GT6BC510438
+2016,13369578,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2006,NY,1,4,HYUND,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,KMHDN46D56U298563
+2016,13369580,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2010,NY,1,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,JTMBF4DV5AD028665
+2016,13369583,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2005,NY,2,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Object (Not Fixed)*, Collision With",2G2WP522451278658
+2016,13369584,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2014,NY,1,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JF1GPAH61E8299229
+2016,13369585,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,West,Gas,2015,NY,1,6,CHRYS,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,2C4RC1BG5FR618038
+2016,13369590,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2014,NY,1,4,SUBAR,ENVMT,Animal's Action,HUMAN,Not Applicable,,JF1GV7E68EG002959
+2016,13369591,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2007,NY,1,4,DODGE,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,,1B3HB48B47D412467
+2016,13369596,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Entering Parked Position,Not Entered,South,Gas,2012,NY,1,4,BUICK,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1G4PR5SK4C4215986
+2016,13369599,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,1,4,FORD,ENVMT,Pavement Slippery,VEHICLE,Tire Failure/Inadequate,Not Applicable,1FAFP34323W155197
+2016,13369603,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,Southwest,Gas,2004,NY,1,6,CHEVR,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1GCDT13XX4K138212
+2016,13369604,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,Southwest,Gas,2012,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5TDKK3DC6CS267749
+2016,13369605,VAN TRUCK,COMMERCIAL,Making Right Turn,Not Entered,Southwest,Gas,2008,NY,2,8,GMC,ENVMT,View Obstructed/Limited,HUMAN,Not Applicable,Not Applicable,1GDHG31K981197686
+2016,13369606,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Entering Parked Position,Not Entered,Southwest,Gas,2001,NY,1,4,TOYOT,HUMAN,Passing or Lane Usage Improper,HUMAN,Traffic Control Device Disregarded,Not Applicable,4T1BG22K51U083669
+2016,13369612,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2004,NY,1,6,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1FMCU92144DA16756
+2016,13369616,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2009,NY,1,4,FORD,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,3FAHP07Z19R118015
+2016,13369617,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2009,NY,1,4,SUBAR,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,4S4BP61C197343013
+2016,13369622,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,Southeast,Gas,2013,NY,1,4,HONDA,HUMAN,Driver Inattention/Distraction*,HUMAN,Backing Unsafely,Not Applicable,1HGCR2F36DA067672
+2016,13369623,PICKUP TRUCK,PASSENGER OR SUBURBAN,Backing,Not Entered,South,Gas,2002,NY,1,8,DODGE,HUMAN,Alcohol Involvement,HUMAN,Passing or Lane Usage Improper,"Other Motor Vehicle, Collision With",1D7HU18Z02J184908
+2016,13369627,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,North,Gas,2015,NY,1,4,CHEVR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1G1JC5SG3F4113132
+2016,13369629,SUBURBAN,PASSENGER OR SUBURBAN,Backing,Not Entered,Northwest,Gas,2007,NY,1,6,NISSA,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,JN8AZ08W57W656967
+2016,13369630,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,West,Diesel,2012,NY,1,4,VOLKS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1VWCN7A36CC081781
+2016,13369639,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,1,6,JEEP,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Applicable,1J4GW48S64C225726
+2016,13369644,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2005,NY,1,5,VOLKS,HUMAN,Driver Inattention/Distraction*,VEHICLE,Other*,Not Applicable,3VWDG71K25M600980
+2016,13369645,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2013,NY,3,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3N1CN7AP0DL869325
+2016,13369647,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1999,NY,1,4,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Following Too Closely,Not Applicable,1Y1SK5287XZ430628
+2016,13369648,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,4,TOYOT,HUMAN,Following Too Closely,ENVMT,Glare,Not Applicable,2T1BU40E49C119558
+2016,13369649,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,1999,NY,1,6,SAAB,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,YS3EF48Z8X3076503
+2016,13369662,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1994,NY,1,8,FORD,HUMAN,Driver Inattention/Distraction*,HUMAN,Unsafe Speed,"Other Motor Vehicle, Collision With",1FTHX26G6RKB26945
+2016,13369663,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2010,NY,1,6,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",WDDHF8HB3AA064461
+2016,13369664,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2006,NY,1,8,LINCO,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5LMFU28526LJ15581
+2016,13369666,PICKUP TRUCK,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2000,NY,1,8,DODGE,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1B7GG22N5YS658704
+2016,13369667,PICKUP TRUCK,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2009,NY,1,8,TOYOT,HUMAN,Turning Improperly,HUMAN,Not Applicable,Not Applicable,5TFBV54189X090660
+2016,13369686,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T1BU4EEXCC845487
+2016,13369687,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2015,NY,1,6,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Traffic Control Device Disregarded,Not Applicable,5TDYK3DC1FS545844
+2016,13369692,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2013,NY,1,6,ME/BE,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,WDDKJ8JB2DF208619
+2016,13369693,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2015,NY,1,4,MAZDA,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,JM3KE4DY2F0531282
+2016,13369694,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,1,4,HYUND,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,KMHDU46D08U345522
+2016,13369698,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1997,NY,1,4,NISSA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1N4AB41D2VC735288
+2016,13369701,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2005,NY,2,4,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1N4AL11D15C212906
+2016,13369702,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2006,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JHMFA16546S001230
+2016,13369713,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,2,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1GNEV13D69S179536
+2016,13369724,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2015,NY,1,6,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5XYKTDA70FG557741
+2016,13369736,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,1,6,MITSU,ENVMT,Pavement Slippery,HUMAN,Driver Inattention/Distraction*,Not Applicable,4A3AK34T98E030436
+2016,13369755,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,1999,NY,1,4,SUBAR,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,4S3BK4256X7313719
+2016,13369790,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2010,NY,1,4,NISSA,ENVMT,Glare,HUMAN,Following Too Closely,,1N4AL2AP7AN436891
+2016,13369791,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,North,Gas,1998,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,,2HGEJ6675WH628572
+2016,13369802,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2002,NY,1,4,HYUND,HUMAN,Drugs (Illegal),HUMAN,Driver Inattention/Distraction*,"Guide Rail - Not At End, Collision With Fixed Object",KMHCG45C72U290022
+2016,13369807,PICKUP TRUCK,AGRICULTURAL TRUCK,Going Straight Ahead,Not Entered,North,Gas,2006,NY,1,8,CHEVR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Traffic Control Device Disregarded,Not Applicable,1GCHK23U16F165908
+2016,13369808,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1999,NY,4,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4N2XN11T3XD810320
+2016,13369814,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Not Applicable,Not Entered,West,Gas,2015,NY,1,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,,KNAGM4A70F5539930
+2016,13369815,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,North,Gas,2004,NY,1,6,FORD,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,1FAFP53U54G177244
+2016,13369817,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,1999,NY,2,4,TOYOT,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,4T1BG22K2XU433218
+2016,13369818,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2007,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTMBD33V976042700
+2016,13369821,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Other,Not Entered,Northeast,Gas,2015,NY,1,4,NISSA,HUMAN,Fell Asleep,HUMAN,Not Applicable,Not Applicable,3N1AB7AP1FY226987
+2016,13369826,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2008,NY,1,4,CHRYS,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,3A8FY48B38T100925
+2016,13369829,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,2,6,CHRYS,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",2C3KA43D49H556949
+2016,13369830,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2002,NY,1,8,CHEVR,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,2GCEK19T421241442
+2016,13369831,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,South,Gas,2014,NY,1,4,ME/BE,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,WDDSJ4EB0EN055099
+2016,13369832,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2008,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGFA16568L006252
+2016,13369839,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,North,Gas,2004,NY,1,4,HONDA,HUMAN,Unsafe Speed,HUMAN,Unsafe Lane Changing,"Median - Not At End, Collision With Fixed Object",2HGES16554H542755
+2016,13369840,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,4,6,LEXUS,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Applicable,JTHBK1GG7F2183677
+2016,13369843,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1993,NY,1,4,HONDA,VEHICLE,Tire Failure/Inadequate,HUMAN,Unknown,"Guide Rail - Not At End, Collision With Fixed Object",1HGEJ1157PL035664
+2016,13369844,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1999,NY,1,4,HONDA,HUMAN,Unknown,HUMAN,Unknown,"Guide Rail - Not At End, Collision With Fixed Object",1HGEJ8241XL007387
+2016,13369845,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2003,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,1HGCM56113A119190
+2016,13369846,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,4,6,TOYOT,HUMAN,Unsafe Speed,HUMAN,Following Too Closely,Not Entered,5TDBA22C86S064673
+2016,13369848,SUBURBAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,South,Gas,2008,NY,1,6,JEEP,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,1J8GR48K78C228372
+2016,13369849,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,4,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1HGCM56154A096224
+2016,13369854,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2016,NY,5,6,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5FNYF6H51GB014487
+2016,13369856,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,4,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5UXWX9C52D0A11624
+2016,13369858,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2013,NY,2,6,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WDDHH8JB9DA750657
+2016,13369859,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2000,NY,3,8,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1B4HS28N3YF141028
+2016,13369860,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2011,NY,2,6,BMW,HUMAN,Driver Inexperience*,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",WBAPK7C59BA820306
+2016,13369861,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,1998,NY,1,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,4T1BG22K8WU288815
+2016,13369862,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2004,NY,1,6,FORD,HUMAN,Reaction to Other Uninvolved Vehicle,VEHICLE,Other*,"Other Motor Vehicle, Collision With",2FMZA51614BA99285
+2016,13369863,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Diesel,2013,NY,3,6,ME/BE,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Applicable,4JGDF2EEXDA189896
+2016,13369866,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2002,NY,1,6,HONDA,VEHICLE,Steering Failure,HUMAN,Not Applicable,Not Applicable,2HKRL18752H532064
+2016,13369877,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,Northeast,Gas,2011,NY,1,6,CADIL,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,1G6DC5EY1B0116396
+2016,13369878,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,Southwest,Gas,2007,NY,1,8,FORD,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,2FAFP71WX7X121914
+2016,13369907,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,3,6,HYUND,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,5NPET46F38H306804
+2016,13369908,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,1,4,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,19XFB2F80DE254169
+2016,13369911,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,2,6,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Guide Rail - Not At End, Collision With Fixed Object",2FMDK49C48BB44835
+2016,13369912,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,2,6,CHRYS,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,2C3CCAHG9CH147465
+2016,13369913,SUBURBAN,ORGANIZATIONAL,Going Straight Ahead,Not Entered,East,Gas,2011,NY,1,4,KIA,VEHICLE,Other*,HUMAN,Not Applicable,Not Applicable,5XYKTCA12BG122302
+2016,13369915,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1997,NY,2,8,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FTEX18L5VNB88045
+2016,13369916,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,1,4,HONDA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,19XFB2F50FE221522
+2016,13369922,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2014,NY,1,4,SUBAR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,JF2GPACC5EG294890
+2016,13369925,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northeast,Gas,2006,NY,3,4,TOYOT,HUMAN,Driver Inattention/Distraction*,HUMAN,Failure to Yield Right-of-Way,Not Applicable,JTKKT624860168800
+2016,13369927,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,1,4,VOLKS,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,3VWRK69M82M093132
+2016,13369936,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,1,4,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1HGCR2F81EA062313
+2016,13369937,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1997,NY,4,8,CHEVR,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1GNEK13R8VJ359458
+2016,13369938,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2010,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T1BU4EE0AC244795
+2016,13369947,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,8,RAM,HUMAN,Failure to Keep Right,ENVMT,Pavement Slippery,Not Applicable,1C6RR7FT8FS681066
+2016,13369948,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTDKB20UX97868285
+2016,13369968,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2011,NY,1,6,CADIL,VEHICLE,Other*,HUMAN,Unknown,,1G6DC5EYXB0131625
+2016,13369969,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2008,NY,1,4,PONTI,HUMAN,Following Too Closely,HUMAN,Unknown,,5Y2SL65858Z408681
+2016,13369970,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,North,Gas,2007,NY,1,4,SATUR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,5GZCZ33D77S835271
+2016,13369971,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1997,NY,1,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4S3BD4355V6210903
+2016,13369974,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,6,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1FMEU51K07UA07326
+2016,13369976,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,1999,NY,1,4,FORD,HUMAN,Fell Asleep,HUMAN,Unsafe Lane Changing,"Fire/Explosion, Non-Collision",1FTYR10C9XTA25500
+2016,13369988,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2011,NY,4,4,MAZDA,ENVMT,Pavement Slippery,HUMAN,Unknown,"Other Motor Vehicle, Collision With",1YVHZ8CHXB5M27078
+2016,13369990,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2003,NY,2,6,JEEP,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,1J4GL48K23W700911
+2016,13369995,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southwest,Gas,2014,NY,1,4,JEEP,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1C4NJDEB9ED824924
+2016,13369996,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,1999,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HGEJ6679XH560813
+2016,13369997,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,2,4,CHEVR,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,1G1JF524027463257
+2016,13369998,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2014,NY,0,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",1G11C5SL4EF149895
+2016,13369999,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2010,NY,0,6,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3D4PG5FVXAT178810
+2016,13370000,SUBURBAN,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,East,Gas,2002,NY,1,4,HONDA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",JHLRD78812C816850
+2016,13370001,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2013,NY,1,4,HYUND,HUMAN,Unsafe Speed,HUMAN,Failure to Yield Right-of-Way,Not Applicable,5XYZUDLA3DG090669
+2016,13370002,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2006,NY,2,6,MERCU,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4M2EU46E96UJ04907
+2016,13370012,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2007,NY,2,6,FORD,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,3FAHP02137R153007
+2016,13370016,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Avoiding Object in Roadway,Not Entered,East,Gas,1999,NY,3,8,FORD,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2FAFP74W2XX112085
+2016,13370022,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,1,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,KMHDN45D23U671233
+2016,13370023,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2008,NY,2,6,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,2CNDL23F086318090
+2016,13370024,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2012,NY,2,4,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WBAXH5C5XCDW04225
+2016,13370025,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,1,6,ACURA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,5J8TB4H53DL009859
+2016,13370030,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,4,HONDA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",JHLRD78515C045686
+2016,13370060,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2008,NY,1,6,CHRYS,ENVMT,Pavement Slippery,ENVMT,View Obstructed/Limited,Not Applicable,2A8HR54P28R777190
+2016,13370061,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,West,Gas,2007,NY,0,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2G1WB58K979256038
+2016,13370062,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,1999,NY,1,6,CHEVR,ENVMT,Pavement Slippery,HUMAN,Not Applicable,"Sign Post, Collision With Fixed Object",1G1ND52J7X6115417
+2016,13370069,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Unknown,Not Entered,East,Gas,2009,NY,1,6,CHEVR,HUMAN,Lost Consciousness,HUMAN,Prescription Medication,Not Applicable,2G1WT57N191238854
+2016,13370072,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,Southwest,Gas,2016,NY,2,4,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Traffic Control Device Disregarded,Not Applicable,1FA6P0H78G5118677
+2016,13370073,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,2,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5TDDK3DC3FS099503
+2016,13370074,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2010,NY,1,6,TOYOT,ENVMT,Pavement Slippery,HUMAN,Unknown,Not Entered,5TDBK3EH9AS013086
+2016,13370081,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Northwest,Gas,2010,NY,1,4,TOYOT,ENVMT,View Obstructed/Limited,HUMAN,Not Applicable,Not Applicable,2T1BU4EEXAC349344
+2016,13370093,SUBURBAN,PASSENGER OR SUBURBAN,Starting from Parking,Not Entered,Southeast,Gas,2015,NY,2,4,HONDA,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,5J6RM4H72FL034883
+2016,13370094,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,1,6,CHRYS,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,2C3HD36M84H642913
+2016,13370095,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northwest,Gas,2009,NY,1,8,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2GCEK290091106688
+2016,13370098,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2014,NY,1,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2G1155S34E9104894
+2016,13370099,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,East,Gas,2013,NY,1,5,VOLKS,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,3VWBP7AJXDM309883
+2016,13370100,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2014,NY,1,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMCU9GXXEUC50253
+2016,13370101,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,1,4,VOLKS,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1VWBT7A32EC073522
+2016,13370102,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2011,NY,2,6,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5XYKTDA26BG123810
+2016,13370107,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2005,NY,1,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1G1ZU54885F149939
+2016,13370110,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,2,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GCRCREA9CZ248056
+2016,13370111,PICKUP TRUCK,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,1996,NY,2,8,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Driver Inattention/Distraction*,Not Applicable,1FTEF14N9TNA07018
+2016,13370148,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northwest,Gas,2002,NY,1,6,HYUND,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,KM8SC13D32U259075
+2016,13370156,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2013,NY,1,4,CHEVR,HUMAN,Alcohol Involvement,HUMAN,Unsafe Speed,"Submersion, Non-Collision",1G1PC5SB3D7201558
+2016,13370157,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,1,4,TOYOT,HUMAN,Unsafe Speed,HUMAN,Not Applicable,"Overturned, Non-Collision",JTEHD20V640029549
+2016,13370161,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,1996,NY,1,4,HONDA,HUMAN,Alcohol Involvement,HUMAN,Driver Inexperience*,Not Applicable,1HGCD5656TA006127
+2016,13370162,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,2,6,TOYOT,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,5TDDK3DC7FS112950
+2016,13370166,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2006,NY,2,6,SATUR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,5GZCZ63486S859272
+2016,13370175,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making U Turn,Not Entered,Northwest,Gas,2003,NY,1,8,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Turning Improperly,,2FAFP71W63X202709
+2016,13370176,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2000,NY,5,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,,1GNDX13E8YD184822
+2016,13370177,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Starting from Parking,Not Entered,Southeast,Gas,2003,NY,2,6,BUICK,HUMAN,Failure to Yield Right-of-Way,ENVMT,View Obstructed/Limited,,1G4HP52K434136151
+2016,13370178,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2010,NY,4,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,,1GNLVEED9AS130203
+2016,13370179,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,8,FORD,HUMAN,Failure to Yield Right-of-Way,HUMAN,Driver Inattention/Distraction*,Not Applicable,1FTEW1EF2FFB80210
+2016,13370180,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTEEW41A582002020
+2016,13370183,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2012,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Following Too Closely,Not Applicable,2HGFB2F57CH313227
+2016,13370184,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2013,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5J6RM4H75DL049715
+2016,13370191,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2004,NY,1,6,AUDI,HUMAN,Alcohol Involvement,HUMAN,Unsafe Speed,"Sign Post, Collision With Fixed Object",WAULT68E34A065820
+2016,13370193,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southwest,Gas,1991,NY,1,4,SAAB,HUMAN,Unsafe Speed,HUMAN,Not Applicable,"Other Fixed Object*, Collision With Fixed Object",YS3AK35E2M5011118
+2016,13370335,SUBURBAN,PASSENGER OR SUBURBAN,Making U Turn,Not Entered,North,Gas,2005,NY,1,6,HYUND,HUMAN,Failure to Yield Right-of-Way,HUMAN,Turning Improperly,Not Applicable,KM8JN72D95U192366
+2016,13370336,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BE32K35U007384
+2016,13370343,SUBURBAN,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,South,Gas,2001,NY,1,6,JEEP,HUMAN,Passing or Lane Usage Improper,HUMAN,Traffic Control Device Disregarded,Not Applicable,1J4FA49S21P330325
+2016,13370345,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,Southeast,Gas,2011,NY,4,6,TOYOT,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,5TDDK3DC1BS015429
+2016,13370346,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,North,Gas,2010,NY,2,4,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1HGCP2F31AA082727
+2016,13370355,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,1,6,JEEP,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,1J4RR6GG4BC745509
+2016,13370356,4 DOOR SEDAN,REGIONAL,Going Straight Ahead,Not Entered,South,Gas,2008,NY,1,8,AUDI,HUMAN,Not Applicable,HUMAN,Not Applicable,"Curbing, Collision With Fixed Object",WAULV94E08N003601
+2016,13370357,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2008,NY,2,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,JTMZD33V086073236
+2016,13370358,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2006,NY,1,8,ME/BE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WDDDJ75X16A055398
+2016,13370362,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Northwest,Gas,2004,NY,1,6,LEXUS,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,JTHBA30G640019726
+2016,13370363,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1999,NY,2,6,ACURA,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,19UUA5646XA040675
+2016,13370367,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,1,6,LA/RO,HUMAN,Driver Inattention/Distraction*,HUMAN,Passing Too Closely,Not Applicable,SALGS2VF0FA205010
+2016,13370368,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2010,NY,0,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",KMHDU4AD1AU869467
+2016,13370369,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,North,Gas,2015,NY,0,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C4HJWEG4FL769388
+2016,13370370,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,West,Gas,2014,NY,1,4,VOLKS,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,3VWD17AJ0EM359980
+2016,13370374,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southwest,Gas,2015,NY,1,6,VOLVO,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,YV4902RC2F2576568
+2016,13370375,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2011,NY,1,6,BMW,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WBAPK5G55BNN28417
+2016,13370382,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Backing,Not Entered,North,Gas,2014,NY,1,6,ACURA,HUMAN,Backing Unsafely,HUMAN,Not Applicable,Not Applicable,19UUA9F5XEA000919
+2016,13370387,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2007,NY,1,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KL1TD66627B728912
+2016,13370388,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northeast,Gas,2012,NY,2,4,CHEVR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Unknown,Not Applicable,2GNALBEKXC6317000
+2016,13370389,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2003,NY,1,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JN8DR09Y63W812215
+2016,13370392,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,South,Gas,2015,NY,1,4,NISSA,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,3N1CN7AP8FL807741
+2016,13370393,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2014,NY,2,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FM5K8D82EGC18823
+2016,13370398,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northeast,Gas,2009,NY,1,4,TOYOT,HUMAN,Turning Improperly,HUMAN,Not Applicable,Not Applicable,JTDBL40EX99058144
+2016,13370399,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4S3BNAC67F3067038
+2016,13370402,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2015,NY,1,4,HYUND,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,5NPDH4AE2FH605273
+2016,13370403,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2009,NY,1,8,CADIL,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1G6KD57Y39U106974
+2016,13370410,SUBURBAN,PASSENGER OR SUBURBAN,Starting in Traffic,Not Entered,Northwest,Gas,2015,NY,3,8,ME/BE,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,4JGDF6EE6FA448975
+2016,13370411,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,Northwest,Gas,2007,NY,1,8,LA/RO,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,SALSH23407A100818
+2016,13370414,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,3,4,TOYOT,HUMAN,Unsafe Speed,HUMAN,Aggressive Driving/Road Rage,Not Applicable,JTKJF5C73E3075542
+2016,13370415,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2014,NY,1,4,HONDA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1HGCR2F89EA244972
+2016,13370416,VAN TRUCK,COMMERCIAL,Slowing or Stopping,Not Entered,North,Gas,2010,NY,1,8,FORD,HUMAN,Following Too Closely,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",1FTNE2EW3ADA99004
+2016,13370417,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,1998,NY,1,6,LEXUS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JT8BF28G5W0115740
+2016,13370418,PICKUP TRUCK,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southwest,Gas,2013,NY,1,6,NISSA,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1N6AD0EV3DN755176
+2016,13370420,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1999,NY,1,4,VOLKS,HUMAN,Unsafe Speed,HUMAN,Following Too Closely,Not Applicable,3VWSC29M1XM019856
+2016,13370421,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,1,8,LEXUS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTJBM7FX0F5109478
+2016,13370424,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2010,NY,1,4,FORD,HUMAN,Driver Inattention/Distraction*,HUMAN,Following Too Closely,Not Applicable,3FADP0L30AR151043
+2016,13370425,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2013,NY,1,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5N1AR2MM5DC677838
+2016,13370426,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,West,Gas,2015,NY,2,6,AUDI,HUMAN,Turning Improperly,HUMAN,Not Applicable,Not Applicable,WA1DGAFP7FA045019
+2016,13370427,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2007,NY,1,4,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5J8TB18567A015637
+2016,13370428,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,East,Gas,2012,NY,1,4,HONDA,HUMAN,Unsafe Lane Changing,HUMAN,Following Too Closely,Not Applicable,2HGFB2F55CH503639
+2016,13370429,PICKUP TRUCK,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2012,NY,1,8,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",1FTFX1EF8CFA33113
+2016,13370430,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2014,NY,1,6,MAZDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JM3TB3BV5E0433040
+2016,13370433,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southwest,Gas,2005,NY,1,6,LEXUS,HUMAN,Unsafe Lane Changing,HUMAN,Unknown,Not Applicable,2T2HA31U35C041878
+2016,13370434,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Overtaking/Passing,Not Entered,Northwest,Gas,2013,NY,1,5,VOLKS,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,3VWDP7AJ5DM360944
+2016,13370438,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2016,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,5TFCZ5AN5GX012575
+2016,13370439,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,1,6,TOYOT,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Applicable,3TMLU4EN3FM207341
+2016,13370440,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2012,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",19XFB2F50CE360383
+2016,13370441,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2014,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T3DFREVXEW219429
+2016,13370442,SUBURBAN,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,6,ME/BE,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,4JGDA5HB1FA566605
+2016,13370443,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,"Light Support/Utility Pole, Collision With Fixed Object",4T1BE32KX2U106358
+2016,13370446,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southeast,Gas,2010,NY,1,6,LEXUS,HUMAN,Failure to Yield Right-of-Way,HUMAN,Driver Inexperience*,Not Applicable,JTHCF5C21A2033342
+2016,13370447,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2001,NY,1,4,SATUR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G8ZH52801Z335217
+2016,13370460,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,8,JEEP,HUMAN,Driver Inattention/Distraction*,HUMAN,Alcohol Involvement,"Other Fixed Object*, Collision With Fixed Object",1J8HR68T69C545232
+2016,13370461,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2001,NY,3,4,VOLKS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WVWPD63B61P144891
+2016,13370462,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,6,JEEP,HUMAN,Following Too Closely,HUMAN,Driver Inattention/Distraction*,Not Applicable,1C4BJWDG3FL634605
+2016,13370463,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2011,NY,1,4,MAZDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JM3ER2CM5B0402516
+2016,13370464,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2000,NY,1,6,CHEVR,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,2G1WW12E6Y9214086
+2016,13370465,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2014,NY,1,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G11E5SL1EF144373
+2016,13370467,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2007,NY,1,6,INFIN,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JNKCV54E27M906119
+2016,13370471,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2006,NY,1,5,VOLVO,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,YV1TS592961439705
+2016,13370472,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2005,NY,2,6,SUZUK,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,JS3TX92V854109930
+2016,13370473,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2007,NY,1,4,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1N4AL21E47C138138
+2016,13370482,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,2016,NY,1,4,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,"Overturned, Non-Collision",2GNFLEEK3G6199224
+2016,13370485,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,3,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HGFG4A5XCH701203
+2016,13370486,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2015,NY,1,4,JEEP,HUMAN,Turning Improperly,HUMAN,Not Applicable,Not Applicable,1C4NJDEBXFD244860
+2016,13370488,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2014,NY,1,4,BMW,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Entered,WBA5A7C50ED617317
+2016,13370489,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,1,6,FORD,HUMAN,Driver Inexperience*,HUMAN,Not Applicable,Unknown,1FMZU73E74UB67381
+2016,13370490,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,4,SUBAR,HUMAN,Alcohol Involvement,HUMAN,Passing or Lane Usage Improper,"Fence, Collision With Fixed Object",JF1SG69695G703681
+2016,13370491,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,1994,NY,0,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,,1J4FY49S3RP464414
+2016,13370499,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Avoiding Object in Roadway,Not Entered,North,Gas,2014,NY,2,4,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,,1HGCR2F54EA131937
+2016,13370500,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2014,NY,1,6,CHRYS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2C4RC1CG4ER192114
+2016,13370501,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2014,NY,1,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KNDJN2A2XE7747038
+2016,13370502,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2012,NY,1,4,HONDA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,2HKRM4H34CH625459
+2016,13370503,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2011,NY,1,6,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5FNYF4H93BB033171
+2016,13370504,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1999,NY,1,6,CHEVR,HUMAN,Outside Car Distraction*,HUMAN,Following Too Closely,Not Applicable,1G1NE52J9X6209571
+2016,13370505,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2014,NY,1,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5NPEC4AC2EH854706
+2016,13370506,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2015,NY,2,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5N1AZ2MHXFN274531
+2016,13370507,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2014,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,19XFB2F52EE253967
+2016,13370508,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2009,NY,1,6,JEEP,HUMAN,Outside Car Distraction*,HUMAN,Not Applicable,Not Applicable,1J4FA24139L739584
+2016,13370509,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2012,NY,1,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4S3BMBC63C3014115
+2016,13370510,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,South,Gas,2015,NY,1,6,JEEP,HUMAN,Passing or Lane Usage Improper,HUMAN,Aggressive Driving/Road Rage,Not Applicable,1C4RJFAG5FC142029
+2016,13370518,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1999,NY,1,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,2G1WL52M8X9264106
+2016,13370519,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,3,6,JEEP,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Entered,1J8HH48K16C157111
+2016,13370538,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2000,NY,1,6,TOYOT,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,4T3ZF13C6YU220400
+2016,13370539,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2001,NY,1,6,LEXUS,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,JT8BD69S510122549
+2016,13370552,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,6,PONTI,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1G2ZG57N584141687
+2016,13370573,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Diesel,1998,NY,2,6,DODGE,HUMAN,Driver Inattention/Distraction*,HUMAN,Unsafe Speed,Not Applicable,3B7KF22D5WG151536
+2016,13370585,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1996,NY,1,6,NISSA,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Entered,JN1CA21D0TT185583
+2016,13370601,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northwest,Gas,2007,NY,1,4,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2HGFG128X7H533835
+2016,13370602,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,2,4,HONDA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2HGFB2F59CH324486
+2016,13370613,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KNAGD126655411663
+2016,13370614,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2005,NY,1,4,SUBAR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,4S4BP62C857341106
+2016,13370617,SUBURBAN,PASSENGER OR SUBURBAN,Other,Not Entered,South,Gas,2004,NY,1,4,TOYOT,HUMAN,Physical Disability,HUMAN,Physical Disability,"Fence, Collision With Fixed Object",JTLKT324240132253
+2016,13370733,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,1,6,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1GNDT13X83K162126
+2016,13370736,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,1,4,CHRYS,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Tree, Collision With Fixed Object",1C3EL46X44N240254
+2016,13370737,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2004,NY,1,4,HONDA,HUMAN,Unsafe Lane Changing,HUMAN,Alcohol Involvement,Not Applicable,1HGEM21124L058789
+2016,13370741,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,4,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1G1ZS58F27F102410
+2016,13370742,PICKUP TRUCK,AGRICULTURAL TRUCK,Going Straight Ahead,Not Entered,North,Gas,2008,NY,4,8,GMC,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Overturned, Non-Collision",1GTHK29K58E129508
+2016,13370745,SUBURBAN,OMNIBUS-SPECIAL (PRIVATE RENTAL),Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,8,CHEVR,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1GNSKBKCXFR535631
+2016,13370746,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2008,NY,1,4,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G2ZG57B984138328
+2016,13370760,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2005,NY,1,6,BUICK,HUMAN,Cell Phone (hand held),HUMAN,Driver Inattention/Distraction*,"Guide Rail - End, Collision With Fixed Object",1G4HP52K15U287712
+2016,13370762,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,4,JEEP,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1J8FT57W77D116851
+2016,13370763,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2014,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Turning Improperly,Not Applicable,19XFB2F50EE256169
+2016,13370764,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,4,6,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,19UYA42403A009482
+2016,13370765,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1999,NY,2,6,CHEVR,HUMAN,Following Too Closely,HUMAN,Unsafe Speed,Not Applicable,2G1WL52M3X9117322
+2016,13370766,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Diesel,2013,NY,1,4,VOLKS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1VWBN7A36DC038636
+2016,13370767,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,6,DODGE,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2C4RDGBG4FR576820
+2016,13370768,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2008,NY,1,4,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,JTKDE167980230508
+2016,13370769,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2003,NY,1,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G2WP52K73F110616
+2016,13370779,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2007,NY,1,4,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1G1AK15F977215999
+2016,13370780,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2009,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCP25839A114053
+2016,13370786,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,2,6,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2G1FA1E31D9119941
+2016,13370787,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,1,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1G1ZU54854F234204
+2016,13370788,PICKUP TRUCK,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,West,Gas,2014,NY,2,8,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1GCUKREC5EF195181
+2016,13370789,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,2,4,HYUND,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,KMHDN46D04U870149
+2016,13370791,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2010,NY,1,4,TOYOT,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Overturned, Non-Collision",2T3BF4DVXAW066377
+2016,13370794,PICKUP TRUCK,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2003,NY,1,6,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1D7HL12X53S308225
+2016,13370795,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,2,6,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1FTYR45E94PB15410
+2016,13370800,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,West,Gas,2004,NY,1,4,HONDA,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,2HGES267X4H632278
+2016,13370801,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KMHCM36C29U123241
+2016,13370813,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2009,NY,2,6,CHRYS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2A8HR54XX9R641746
+2016,13370814,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,1,6,FORD,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1FTZR45E74PA02382
+2016,13370820,UTILITY,AGRICULTURAL TRUCK,Slowing or Stopping,Not Entered,South,Diesel,2003,NY,2,8,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FDAF56P73ED70952
+2016,13370823,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2014,NY,2,4,HYUND,HUMAN,Unsafe Speed,HUMAN,Not Applicable,"Other Fixed Object*, Collision With Fixed Object",KMHTC6AD2EU212564
+2016,13370839,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1996,NY,2,6,NISSA,HUMAN,Unsafe Speed,HUMAN,Driver Inattention/Distraction*,Not Applicable,JN1CA21D3TT735570
+2016,13370860,REFRIGERATOR TRUCK,COMMERCIAL,Changing Lanes,Not Entered,North,Diesel,2012,NY,1,6,FREIG,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1FVACWDT9CHBL5378
+2016,13370864,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,1,4,FORD,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,1FAHP37N59W200079
+2016,13370865,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,1,4,DODGE,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,1B3AL46X14N380810
+2016,13370867,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2013,NY,1,4,AUDI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WAUFFAFL6DN007315
+2016,13370868,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2009,NY,1,6,DODGE,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,3D4GG57V79T171064
+2016,13370869,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2011,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T3BF4DV7BW112345
+2016,13370870,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2013,NY,1,4,HONDA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,2HGFB2F59DH566535
+2016,13370871,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2009,NY,2,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMCU93799KA86839
+2016,13370874,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,1,6,INFIN,HUMAN,Unsafe Speed,HUMAN,Unsafe Lane Changing,Not Applicable,JNKCV54EX4M814350
+2016,13370875,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,2,4,SUBAR,HUMAN,Not Applicable,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",JF2SJABC7FH429165
+2016,13370876,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2001,NY,2,6,DODGE,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,2B4GP44361R297575
+2016,13370877,4 DOOR SEDAN,MEDICAL DOCTOR,Slowing or Stopping,Not Entered,South,Gas,2014,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCR2F85EA220880
+2016,13370878,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2004,NY,2,4,MINI,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,WMWRE334X4TD81904
+2016,13370879,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2007,NY,1,4,DODGE,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Overturned, Non-Collision",1B3HB48BX7D350251
+2016,13370888,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2014,NY,1,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C4PJMDS6EW281255
+2016,13370889,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2005,NY,1,4,FORD,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1FAFP34N35W311946
+2016,13370893,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,East,Gas,2010,NY,1,4,AUDI,HUMAN,Unsafe Speed,HUMAN,Passing or Lane Usage Improper,"Light Support/Utility Pole, Collision With Fixed Object",WAULFAFR3AA036779
+2016,13370894,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1997,NY,1,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMCU24X3VUB19161
+2016,13370897,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,8,GMC,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1GTHK29U95E334665
+2016,13370898,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2008,NY,1,4,JEEP,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1J8FT28W58D549728
+2016,13370899,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2003,NY,1,6,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HNYD18273H528809
+2016,13370902,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2004,NY,1,4,HONDA,HUMAN,Following Too Closely,HUMAN,Driver Inattention/Distraction*,Not Applicable,1HGCM56654A009725
+2016,13370903,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2002,NY,3,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTEHF21AX20059219
+2016,13370910,TRACTOR,INTERNATIONAL REGISTRATION,Changing Lanes,Not Entered,South,Diesel,2013,NY,1,6,MACK,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,1M1AW07Y6DM028687
+2016,13370914,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2015,NY,2,4,KIA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,5XXGN4A72FG502809
+2016,13370915,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,Southwest,Gas,2009,NY,2,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1ZVHT80N795115423
+2016,13370918,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,3,12,BENTL,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,SCBBR53W66C033557
+2016,13370919,4 DOOR SEDAN,OMNIBUS - TAXI,Going Straight Ahead,Not Entered,North,Gas,2011,NY,1,8,LINCO,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,2LNBL8EV5BX756667
+2016,13370920,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2014,NY,2,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCR2F59EA154453
+2016,13370921,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,1,4,DODGE,HUMAN,Fatigued/Drowsy,HUMAN,Following Too Closely,"Guide Rail - Not At End, Collision With Fixed Object",3C4PDCAB5ET104286
+2016,13370922,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,4,HONDA,HUMAN,Following Too Closely,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",1HGCM55875A002330
+2016,13370928,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2007,NY,4,4,FORD,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1FAFP34N97W192688
+2016,13370929,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2015,NY,2,4,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C4NJRFB9FD109834
+2016,13370930,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2006,NY,2,6,BMW,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Other Fixed Object*, Collision With Fixed Object",WBAVD13586KV14857
+2016,13370938,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,1,6,FORD,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,3FAFP08186R154151
+2016,13370939,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2005,NY,1,4,CHEVR,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1G1ZS52F85F209693
+2016,13370940,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2011,NY,1,4,MITSU,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JA4JT3AW1BU014060
+2016,13370942,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,6,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2G1WT57NX91104733
+2016,13370943,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,1,6,ACURA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,2HNYD2H69CH537844
+2016,13370944,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2007,NY,2,6,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",5NPEU46F67H278184
+2016,13370945,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2006,NY,1,4,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",1G1AK15F967736672
+2016,13370946,PICKUP TRUCK,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2009,NY,2,8,DODGE,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1D3HV13T69J534294
+2016,13370950,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Diesel,2009,NY,1,4,VOLKS,HUMAN,Following Too Closely,HUMAN,Fell Asleep,Not Applicable,3VWRL71K59M055557
+2016,13370951,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2002,NY,1,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1G1ND52J52M647849
+2016,13370952,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northwest,Gas,2004,NY,2,6,CHEVR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2G1WH52K149214434
+2016,13370962,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,2,4,KIA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,5XYKTCA64FG614864
+2016,13370968,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,North,Diesel,1997,NY,1,8,FORD,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,3FTHF25F7VMA49131
+2016,13370969,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Southeast,Gas,1999,NY,2,4,HYUND,HUMAN,Turning Improperly,HUMAN,Unsafe Speed,Not Applicable,KMHJF25F7XU758816
+2016,13370970,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,2,4,TOYOT,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,JTDKN3DP5E3050370
+2016,13370973,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1997,NY,6,8,FORD,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,1FDEE14L5VHB75852
+2016,13370975,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,2011,NY,1,4,FORD,HUMAN,Unsafe Speed,HUMAN,Traffic Control Device Disregarded,Not Applicable,1FAHP3FN9BW132148
+2016,13370976,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,2,6,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,"Tree, Collision With Fixed Object",2HNYD18805H511356
+2016,13370977,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,1999,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,4T1BG22K4XU535961
+2016,13370978,SUBURBAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,East,Gas,2013,NY,1,6,DODGE,HUMAN,Turning Improperly,HUMAN,Unsafe Lane Changing,Not Applicable,1C4RDJDG7DC518054
+2016,13370980,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,1,6,CHEVR,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2G1WC5E3XC1169610
+2016,13370981,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1993,NY,1,6,JEEP,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,1J4FJ28S4PL616943
+2016,13370982,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,2,4,HONDA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Earth Embankment/Rock Cut/Ditch, Collision With Fixed Object",19XFB2F53FE268463
+2016,13370990,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,1997,NY,2,4,HYUND,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,KMHJW34MXVU079660
+2016,13370991,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2011,NY,1,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FMHK8F82BGA44600
+2016,13371001,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2005,NY,2,4,DODGE,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,1B3ES56C35D198122
+2016,13371002,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2003,NY,2,4,DODGE,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,1B3ES56C93D200596
+2016,13371003,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2009,NY,2,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JN8AZ18W89W124492
+2016,13371009,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southeast,Gas,2005,NY,1,6,CHEVR,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,2CNDL73FX56131965
+2016,13371010,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2014,NY,1,8,BMW,HUMAN,Alcohol Involvement,HUMAN,Passing or Lane Usage Improper,Not Applicable,WBAYF8C52ED652722
+2016,13371025,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2013,NY,2,4,FORD,ENVMT,Obstruction/ Debris,HUMAN,Not Applicable,Not Applicable,1FADP3E25DL188176
+2016,13371030,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,2011,NY,1,6,AUDI,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,"Other Motor Vehicle, Collision With",WAUBGAFL2BA135535
+2016,13371039,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2015,NY,1,4,SUBAR,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,JF1VA1A66F9828852
+2016,13371045,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,East,Diesel,2007,NY,2,8,CHEVR,HUMAN,Not Applicable,HUMAN,Following Too Closely,Not Applicable,1GCHK23D17F184296
+2016,13371046,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2007,NY,1,6,PONTI,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",2G2WP552471202744
+2016,13371047,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2015,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T3RFREV6FW376849
+2016,13371048,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Overtaking/Passing,Not Entered,South,Gas,2006,NY,1,4,HONDA,HUMAN,Unsafe Speed,ENVMT,Pavement Slippery,Not Applicable,2HGFA155X6H523811
+2016,13371072,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,2002,NY,1,4,HONDA,VEHICLE,Other*,HUMAN,Not Applicable,Not Applicable,2HGES26712H610487
+2016,13371073,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2004,NY,1,4,TOYOT,HUMAN,Driver Inattention/Distraction*,HUMAN,Following Too Closely,Not Applicable,4T1BE30K84U322408
+2016,13371074,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2013,NY,3,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C4HJWEG5DL609064
+2016,13371077,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2003,NY,1,6,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,JN8DR09Y53W825814
+2016,13371078,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,1995,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JHMRA1861SC027520
+2016,13371079,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,1999,NY,3,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,4T1BG22K2XU600581
+2016,13371080,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Merging,Not Entered,East,Gas,2016,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T1BURHE5GC483390
+2016,13371081,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2014,NY,1,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5N1AR2MM4EC628311
+2016,13371107,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2007,NY,2,8,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,2GCEK19J571616230
+2016,13371285,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,6,FORD,HUMAN,Not Applicable,HUMAN,Fatigued/Drowsy,Not Applicable,1FMYU93195KA11361
+2016,13371310,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2009,NY,1,6,CHEVR,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,1GNDT33S992112568
+2016,13371311,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,3,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3FAHP08Z56R112356
+2016,13371319,SUBURBAN,OMNIBUS-SPECIAL (PRIVATE RENTAL),Going Straight Ahead,Not Entered,North,Gas,2015,NY,1,4,BUICK,ENVMT,Animal's Action,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",KL4CJFSB9FB132063
+2016,13371320,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,4,VOLKS,HUMAN,Following Too Closely,ENVMT,Animal's Action,"Other Motor Vehicle, Collision With",3VWRK69M25M016440
+2016,13371326,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,3,4,NISSA,HUMAN,Driver Inexperience*,HUMAN,Not Applicable,Not Applicable,1N4AL21E89N496186
+2016,13371350,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2002,NY,1,6,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Driver Inexperience*,Not Applicable,1GNDT13S622424101
+2016,13371391,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2007,NY,3,4,HYUND,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,KMHDU46DX7U182957
+2016,13371392,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,1999,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HGEJ6673XH503698
+2016,13371397,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,South,Gas,2002,NY,2,6,DODGE,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,2B4GP54L62R533746
+2016,13371405,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northwest,Gas,2002,NY,1,4,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,2HGES165X2H611954
+2016,13371406,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2002,NY,1,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KMHDN45D82U370450
+2016,13371409,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,Southwest,Gas,2010,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTDKN3DU3A0239956
+2016,13371419,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,West,Gas,2015,NY,1,6,ME/BE,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,WDDHF8JB0FB143386
+2016,13371420,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2015,NY,1,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KNDJP3A52F7117185
+2016,13371425,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2015,NY,2,4,NISSA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,3N1AB7AP7FY363500
+2016,13371427,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2001,NY,1,8,DODGE,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1B4HS28N11F502990
+2016,13371428,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2003,NY,1,6,INFIN,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",JNKCV51E03M331243
+2016,13371430,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2003,NY,3,6,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,JN1DA31AX3T422497
+2016,13371431,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2002,NY,4,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JN1DA31D92T432169
+2016,13371437,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2011,NY,1,6,TOYOT,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,4T1BK3DB1BU437433
+2016,13371440,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southwest,Gas,2014,NY,1,4,CHEVR,HUMAN,Turning Improperly,ENVMT,Glare,Not Applicable,2GNALCEK7E6322079
+2016,13371441,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Right Turn,Not Entered,Northeast,Gas,2010,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTDBU4EE9AJ063859
+2016,13371442,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Changing Lanes,Not Entered,South,Gas,2006,NY,1,6,HYUND,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,5NPEU46F16H125209
+2016,13371443,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2013,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JN8AS5MV6DW651089
+2016,13371449,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2008,NY,1,4,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1N4AL21EX8C280334
+2016,13371450,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,East,Gas,2008,NY,1,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5N1AR18B58C667495
+2016,13371451,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2000,NY,1,6,FORD,HUMAN,Not Applicable,HUMAN,Following Too Closely,Not Applicable,1FTNS2421YHA30709
+2016,13371452,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,1998,NY,1,4,KIA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KNDJA7239W5565747
+2016,13371453,DUMP,POLITICAL SUBDIVISION,Making Left Turn,Not Entered,South,Diesel,2005,NY,1,6,INTER,HUMAN,Not Applicable,HUMAN,Passing or Lane Usage Improper,Not Applicable,1HTWGAAT25J126949
+2016,13371455,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2016,NY,1,4,BMW,HUMAN,Passing or Lane Usage Improper,ENVMT,Glare,Not Applicable,WBA5A7C57GG144615
+2016,13371456,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2001,NY,0,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1J4FF48S21L626391
+2016,13371459,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,6,BMW,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,WBAFU7C54DDU75371
+2016,13371460,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2014,NY,1,4,SUBAR,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,JF2GPAKCXE8292967
+2016,13371461,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northeast,Gas,1999,NY,1,4,TOYOT,HUMAN,Unsafe Lane Changing,HUMAN,Not Applicable,Not Applicable,4T1BG22K4XU562187
+2016,13371462,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2008,NY,1,8,ME/BE,HUMAN,Unsafe Speed,HUMAN,Not Applicable,Not Applicable,WDBTJ72H08F237746
+2016,13371465,SUBURBAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southeast,Gas,2008,NY,1,6,JEEP,ENVMT,Glare,HUMAN,Not Applicable,Not Applicable,1J8GN28KX8W194037
+2016,13371467,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2005,NY,1,4,TOYOT,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,4T1BE32K55U557623
+2016,13371468,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,West,Gas,2014,NY,1,8,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FBNE3BL0EDA14887
+2016,13371470,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2008,NY,1,4,TOYOT,HUMAN,Driver Inattention/Distraction*,HUMAN,Passing or Lane Usage Improper,Not Applicable,2T1BR32E28C934686
+2016,13371471,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2008,NY,0,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,,2CNDL737286032067
+2016,13371472,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,East,Gas,2007,NY,0,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,,1N4AL21E87C162068
+2016,13371476,PICKUP TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,West,Diesel,2008,NY,1,8,FORD,ENVMT,Pavement Slippery,HUMAN,Unsafe Speed,Not Applicable,1FTXW43R68EA95497
+2016,13371477,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,1,4,KIA,HUMAN,Traffic Control Device Disregarded,HUMAN,Failure to Yield Right-of-Way,"Light Support/Utility Pole, Collision With Fixed Object",KNDJT2A69C7417266
+2016,13371478,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,1,6,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,2HKRL18912H575236
+2016,13371656,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2004,NY,2,8,BMW,HUMAN,Unsafe Speed,HUMAN,Not Entered,Not Entered,WBAGN63494DS49121
+2016,13372737,SUBURBAN,PASSENGER OR SUBURBAN,Overtaking/Passing,Not Entered,West,Gas,2004,NY,1,8,DODGE,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,1D4HB48D64F161194
+2016,13372740,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1999,NY,2,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T1BR12E9XC188045
+2016,13372776,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,1,4,SAAB,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,YS3FD49Y961120468
+2016,13372927,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2016,NY,2,4,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,"Guide Rail - Not At End, Collision With Fixed Object",3FA6P0H7XGR169059
+2016,13373057,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2001,NY,1,6,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Unknown,JN1CA31A01T305228
+2016,13373058,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2006,NY,1,6,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2CNDL73F766159742
+2016,13373066,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,2,6,LEXUS,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,2T2BK1BA5CC129095
+2016,13373067,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Starting in Traffic,Not Entered,South,Gas,2012,NY,1,6,LINCO,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,3LNHL2JC8CR818784
+2016,13373068,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2015,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HKRM4H78FH695554
+2016,13373069,SUBURBAN,SPECIAL PASSENGER,Making Left Turn,Not Entered,West,Gas,1999,NY,1,6,DODGE,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,2B4GP45R4XR109244
+2016,13373070,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2016,NY,2,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5NPDH4AE5GH659572
+2016,13373071,VAN TRUCK,COMMERCIAL,Going Straight Ahead,Not Entered,South,Gas,2002,NY,2,8,CHEVR,HUMAN,Passing or Lane Usage Improper,HUMAN,Not Applicable,Not Applicable,1GBJG31R121192433
+2016,13373072,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2014,NY,1,8,CADIL,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GYS4BEF6ER238986
+2016,13373077,SUBURBAN,HAM OPERATOR,Making Left Turn,Not Entered,Northwest,Gas,2008,NY,1,6,JEEP,HUMAN,Failure to Yield Right-of-Way,HUMAN,Turning Improperly,Not Applicable,1J8GR48K08C160058
+2016,13373078,CONVERTIBLE,SPECIAL PASSENGER,Going Straight Ahead,Not Entered,East,Gas,2015,NY,1,4,AUDI,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,WAU7FLFF0F1052660
+2016,13373083,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Northeast,Gas,2012,NY,2,4,NISSA,HUMAN,Turning Improperly,HUMAN,Traffic Control Device Disregarded,Not Applicable,1N4AL2AP8CN566407
+2016,13373084,VAN TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2005,NY,1,6,DODGE,HUMAN,Traffic Control Device Disregarded,HUMAN,Not Applicable,Not Applicable,2D4GP44LX5R149425
+2016,13373087,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Starting from Parking,Not Entered,West,Gas,2006,NY,3,4,NISSA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,3N1CB51D16L621817
+2016,13373088,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JN8AZ28R19T119717
+2016,13373091,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1997,NY,2,4,TOYOT,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,2T1BA02E3VC221054
+2016,13373092,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,1,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2HKRM4H39DH631694
+2016,13373102,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2013,NY,2,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3N1AB7AP0DL658805
+2016,13373103,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2008,NY,1,6,JEEP,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1J8GR48K08C133636
+2016,13373104,4 DOOR SEDAN,SPECIAL PASSENGER,Stopped in Traffic,Not Entered,North,Gas,2014,NY,2,6,LEXUS,HUMAN,Not Applicable,HUMAN,Not Applicable,"Other Motor Vehicle, Collision With",JTHBK1GGXE2098346
+2016,13373105,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2014,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,2T1BURHE0EC002443
+2016,13373111,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2015,NY,1,6,JEEP,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1C4RJFAG8FC602591
+2016,13373114,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2012,NY,1,6,JEEP,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1C4PJMAK9CW211587
+2016,13373115,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2008,NY,1,8,LEXUS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTHBL46F985069138
+2016,13373120,PICKUP TRUCK,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Diesel,2003,NY,1,8,FORD,HUMAN,Following Too Closely,HUMAN,Driver Inattention/Distraction*,Not Applicable,1FTSX31P13EB40177
+2016,13373121,PICKUP TRUCK,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2004,NY,2,6,FORD,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1FTZR45E74TA03555
+2016,13373128,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,1998,NY,1,4,TOYOT,HUMAN,Driver Inattention/Distraction*,HUMAN,Failure to Keep Right,Not Applicable,1NXBR18E7WZ125384
+2016,13373129,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Parked,Not Entered,West,Gas,2003,NY,0,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCM72693A033915
+2016,13373130,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,Southeast,Gas,2015,NY,1,4,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,2HGFG3B87FH505288
+2016,13373131,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2010,NY,1,4,MITSU,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JA32V6FV4AU028604
+2016,13373136,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,1998,NY,4,4,HONDA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,Not Applicable,2HGEJ6527WH543044
+2016,13373137,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2011,NY,1,8,INFIN,HUMAN,Not Applicable,HUMAN,Unknown,Not Applicable,JN8AZ2NC4B9303195
+2016,13373138,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,1,4,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,2GNALBEK5F1118258
+2016,13373142,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,West,Gas,2009,NY,1,5,VOLKS,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,3VWJM71K59M133393
+2016,13373145,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2012,NY,1,4,LA/RO,HUMAN,Driver Inattention/Distraction*,HUMAN,Driver Inexperience*,Not Applicable,SALVP2BG3CH661155
+2016,13373148,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,1994,NY,1,6,JEEP,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1J4FY29S7RP457714
+2016,13373149,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2015,NY,2,4,HYUND,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,KM8JUCAGXFU985233
+2016,13373150,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,South,Gas,2005,NY,3,4,HONDA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1HGCM56845A074679
+2016,13373151,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2015,NY,2,6,LEXUS,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,JTHCF1D27F5024884
+2016,13373154,SUBURBAN,PASSENGER OR SUBURBAN,Starting in Traffic,Not Entered,Northeast,Gas,2013,NY,1,4,NISSA,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,JN8AS5MV0DW616970
+2016,13373155,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,Northeast,Gas,2004,NY,1,4,TOYOT,HUMAN,Reaction to Other Uninvolved Vehicle,HUMAN,Not Applicable,Not Applicable,JTEHD20V346011250
+2016,13373156,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,2,4,KIA,ENVMT,Animal's Action,HUMAN,Not Applicable,Not Applicable,5XXGN4A70EG290863
+2016,13373159,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2009,NY,1,6,JEEP,HUMAN,Following Too Closely,HUMAN,Not Applicable,Not Applicable,1J8GN28K39W532993
+2016,13373160,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,North,Gas,2005,NY,1,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTEBU14R850067735
+2016,13373403,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,South,Gas,2008,NY,1,4,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,JTDKB20U083460464
+2016,13373404,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Northeast,Gas,1996,NY,1,6,CHEVR,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1GNDT13W6T2180776
+2016,13373405,SUBURBAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,Northeast,Gas,2008,NY,2,8,CHEVR,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1GNFK13018J212487
+2016,13373406,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2011,NY,1,4,ACURA,ENVMT,Pavement Slippery,HUMAN,Turning Improperly,Not Applicable,5J8TB1H57BA006079
+2016,13373407,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,South,Gas,2009,NY,1,4,SUZUK,ENVMT,Pavement Slippery,HUMAN,Turning Improperly,Not Applicable,JS2YB417296202757
+2016,13373408,SUBURBAN,PASSENGER OR SUBURBAN,Parked,Not Entered,South,Gas,2011,NY,0,4,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5J8TB1H57BA006079
+2016,13373410,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2006,NY,1,4,TOYOT,ENVMT,Pavement Slippery,HUMAN,Not Applicable,Not Applicable,4T1BE30K46U165513
+2016,13373413,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2008,NY,1,6,FORD,HUMAN,Following Too Closely,ENVMT,Pavement Slippery,Not Applicable,1FMCU93138KE62669
+2016,13373414,SUBURBAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,North,Gas,2015,NY,1,4,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,5N1AT2MVXFC925840
+2016,13373419,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Stopped in Traffic,Not Entered,East,Gas,2004,NY,1,4,ACURA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Entered,JH4CL96834C023040
+2016,13373420,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2014,NY,2,6,FORD,VEHICLE,Other*,HUMAN,Not Applicable,Not Applicable,1FM5K8GT8EGA40660
+2016,13373421,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,East,Gas,2011,NY,1,4,NISSA,HUMAN,Failure to Yield Right-of-Way,HUMAN,Driver Inattention/Distraction*,Not Applicable,3N1AB6AP0BL720212
+2016,13373422,VAN TRUCK,COMMERCIAL,Starting in Traffic,Not Entered,West,Gas,2012,NY,1,8,FORD,HUMAN,Driver Inattention/Distraction*,HUMAN,Not Applicable,Not Applicable,1FTNE2EW8CDB05902
+2016,13373423,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Slowing or Stopping,Not Entered,West,Gas,2010,NY,1,6,NISSA,HUMAN,Not Applicable,HUMAN,Not Applicable,Not Applicable,1N4AA5AP4AC803815
+2016,13373427,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,Southwest,Gas,2004,NY,1,6,BUICK,HUMAN,Alcohol Involvement,HUMAN,Passing or Lane Usage Improper,"Light Support/Utility Pole, Collision With Fixed Object",2G4WS52J341169216
+2016,13373428,4 DOOR SEDAN,PASSENGER OR SUBURBAN,Making Left Turn,Not Entered,West,Gas,2003,NY,2,6,TOYOT,HUMAN,Failure to Yield Right-of-Way,HUMAN,Not Applicable,,4T1BF28B43U332461
+2016,13373429,SUBURBAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,North,Gas,2013,NY,2,6,TOYOT,HUMAN,Not Applicable,HUMAN,Not Applicable,,5TDBK3EH0DS261084
+2016,13373430,2 DOOR SEDAN,PASSENGER OR SUBURBAN,Going Straight Ahead,Not Entered,East,Gas,2002,NY,1,6,HONDA,HUMAN,Failure to Yield Right-of-Way,VEHICLE,Other*,Not Applicable,1HGCG22512A013786
