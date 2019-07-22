@@ -1,11 +1,11 @@
-from sklearn.preprocessing import LabelEncoder,LabelBinarizer
-from sklearn.tree import DecisionTreeClassifier 
+from sklearn.preprocessing import LabelEncoder, LabelBinarizer
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 from sklearn.tree import export_graphviz
 from sklearn.externals.six import StringIO
-from sklearn.metrics import roc_curve, roc_auc_score,confusion_matrix,auc,recall_score
+from sklearn.metrics import roc_curve, roc_auc_score, confusion_matrix, auc, recall_score
 from sklearn.multiclass import OneVsRestClassifier
 
 import matplotlib.pyplot as plt
@@ -17,7 +17,7 @@ import pydotplus
 def read_data():
 
     pima = pd.read_csv("car.data.txt", header=0)
-    print(pima.head()) 
+    print(pima.head())
 
     le = LabelEncoder()
     categories_non_numerical = [
@@ -64,18 +64,19 @@ def generate_decision_tree_classifier():
     from sklearn.model_selection import cross_val_score
     # kf = KFold(25, n_folds=5, shuffle=False)
     depth = []
-    for i in range(1,50):
+    for i in range(1, 50):
         clf = DecisionTreeClassifier(max_depth=i)
-        # Perform 7-fold cross validation 
-        scores = cross_val_score(estimator=clf, X=X_train, y=y_train, cv=7, n_jobs=4)
-        depth.append((i,scores.mean()))
+        # Perform 7-fold cross validation
+        scores = cross_val_score(
+            estimator=clf, X=X_train, y=y_train, cv=7, n_jobs=4)
+        depth.append((i, scores.mean()))
     print(depth)
-    x=[f[0] for f in depth]
-    y=[f[1] for f in depth]
+    x = [f[0] for f in depth]
+    y = [f[1] for f in depth]
     print("x is ")
     print(x)
     print(y)
-    plt.scatter(x,y)
+    plt.scatter(x, y)
     plt.title("relationship between")
     plt.xlabel("max_depth")
     plt.ylabel("accuracy")
@@ -83,8 +84,8 @@ def generate_decision_tree_classifier():
 
     # Model Accuracy, how often is the classifier correct?
     print("Accuracy:", accuracy_score(y_test, y_predict))
-    print("recall_score: ",recall_score(y_test,y_predict, average='macro'))
-    
+    print("recall_score: ", recall_score(y_test, y_predict, average='macro'))
+
     # calculate confusion matrix
     # Just For random test
     cm = pd.DataFrame(
@@ -109,18 +110,18 @@ def generate_decision_tree_classifier():
     """
     #  predict
     print(type(y_predict))
-    y_predict[y_predict <= 1]=0
-    y_predict[y_predict >= 2]=1
+    y_predict[y_predict <= 1] = 0
+    y_predict[y_predict >= 2] = 1
     #  y_test
-    y_test.replace(1,0,inplace=True)
-    y_test.replace(2,1,inplace=True)
-    y_test.replace(3,1,inplace=True)
- 
-    fpr, tpr, thresholds = roc_curve(y_test,y_predict)
+    y_test.replace(1, 0, inplace=True)
+    y_test.replace(2, 1, inplace=True)
+    y_test.replace(3, 1, inplace=True)
+
+    fpr, tpr, thresholds = roc_curve(y_test, y_predict)
     plt.plot([0, 1], [0, 1], linestyle='--')
     plt.plot(fpr, tpr, marker='.')
     plt.show()
-    
+
     # clf = OneVsRestClassifier(DecisionTreeClassifier(random_state=0))
 
     # X_train, X_test, y_train, y_test = read_data()
@@ -152,18 +153,17 @@ def generate_random_forest_classfier():
     print("Accuracy:", accuracy_score(y_test, predicitions))
     feature_importances = pd.DataFrame(clf.feature_importances_,
                                        index=X_train.columns,
-                                       columns=['importance']) .sort_values('importance',ascending = False)
-    importance = list(feature_importances.iloc[:,0])
+                                       columns=['importance']) .sort_values('importance', ascending=False)
+    importance = list(feature_importances.iloc[:, 0])
     names = list(feature_importances.index)
-   
-    plt.bar(names,importance)
-    plt.show()
 
+    plt.bar(names, importance)
+    plt.show()
 
 
 if __name__ == '__main__':
     # uncomment the following comment to run 2 classifer trees both
-    #generate_random_forest_classfier()
+    # generate_random_forest_classfier()
     generate_decision_tree_classifier()
 
     # graph.write_png('diabetes.png')
