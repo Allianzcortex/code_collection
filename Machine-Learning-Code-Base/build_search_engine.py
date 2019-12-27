@@ -32,23 +32,23 @@ from nltk.corpus import stopwords
 stop_words = set(stopwords.words('english'))
 
 
-frequence_dict={}
-# I prefer to use BFS search algorithm , If you want to use DFS search algorithm , you should use Stack
-webpage_list=deque()
-crawl_web_page_num=4
+frequence_dict = {}
+# I prefer to use BFS search algorithm, use Stack instead if you want to use DFS to retrieve next page 
+webpage_list = deque()
+crawl_web_page_num = 4
 
 
 # available_link_pattern=re.compile()
 
-content_pattern=re.compile("<meta name=\"description\" content=\"(.*?)\" />")
-title_pattern=re.compile("<meta property='og:title' content=\"(.*?)\" />")
-url_pattern=re.compile(" <a href=\"/title/tt(\d+)/.*\"")
+content_pattern = re.compile("<meta name=\"description\" content=\"(.*?)\" />")
+title_pattern = re.compile("<meta property='og:title' content=\"(.*?)\" />")
+url_pattern = re.compile(" <a href=\"/title/tt(\d+)/.*\"")
 
 def crawl_page(url):
     """
     To carawl a single webpage,get content/title/description/related urls.
 
-    Overall It is not a good choice to use regex to parse the website,beautifulsoup/lxml is better
+    Overall It is not a good choice to use regex to parse the website, beautifulsoup/lxml is better
     In this case I will just try to make a simple demo
 
     @param: url webpage link
@@ -59,7 +59,7 @@ def crawl_page(url):
     title = title_pattern.findall(content)[0]
     description = content_pattern.findall(content)[0]
     urls = url_pattern.findall(content)
-    # always get new urls and push it to list , so it can be retrieved later
+    # always get new urls and push it to list, then it can be retrieved later
     for new_url in urls[:5]:
         webpage_list.append("https://www.imdb.com/title/tt{}/".format(new_url))
     nlp_analyze(description,title)
@@ -69,7 +69,7 @@ def nlp_analyze(content,title):
     """
     Parse the file description
     """
-    tags=nltk.word_tokenize(content)
+    tags = nltk.word_tokenize(content)
     build_index([x for x in tags if x not in stop_words and len(x)>=3],title)
 
 
@@ -98,7 +98,7 @@ def build_index(tags,title):
     global frequence_dict
     for x in tags:
         if x not in frequence_dict:
-            frequence_dict[x]=[title]
+            frequence_dict[x] = [title]
         else:
             frequence_dict[x].append(title)
 
