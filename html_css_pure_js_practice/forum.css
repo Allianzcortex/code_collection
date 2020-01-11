@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(226, 226, 226);
+}
+
+.navbar {
+    display:flex;
+    justify-content: space-between;
+    background-color: white;
+    position: fixed;
+    top:0px;
+    width: 100%;
+    height: 45px;
+    vertical-align: middle;
+    /* 
+    这里参考：https://segmentfault.com/q/1010000013748287
+    如何设置文字居中
+    line-height 和 height 高度相等后
+    再用 vertical-alin : middle 对齐
+    */
+    line-height: 45px;
+    /* border:1px solid blue; */
+    left:0px;
+}
+
+.navbar-logo > a {
+    color:#556;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight:900;
+    margin-left: 20px;
+}
+
+.navbar-right-group {
+    display:flex;
+    justify-content: space-around;
+}
+
+/* https://stackoverflow.com/questions/3225891/what-does-the-greater-than-sign-css-selector-mean 
+> 的作用是类选择器，用于类里套类的情况
+用 SASS 会有简化版本的操作 >&
+*/
+.navbar-right-group >a {
+    color:#556;
+    text-decoration: none;
+    /* border:1px solid blue; */
+    margin-left:5px;
+    margin-right:5px;
+
+    /* TODO 用 nth:child 语法来加大最右边的距离 */
+}
