@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(226, 226, 226);
+    display:grid;
+    grid-template-columns: 4fr 1fr;
+    
+}
+
+.left-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border:1px solid blue;
+    /* padding-left:10px; */
+    margin-left:150px;
+    margin-right:150px;
+    /* padding-right:150px; */
+    height:100%;
+}
+
+/* TODO 这里实现 split-line 
+参考 dash-web 里的做法 */
+.split-line {
+    height:0.5px;
+
+}
+
+.right-bar {
+    background-color: black;
+    margin-left:0;
+    border:1px blue solid;
+    /* 这里用 traslateX 来向左移动
+    
+    以及 3D 来变化也很有趣，可以用于 
+    hover 上去的效果
+    */
+    transform: translateX(-100px);
+    border-radius: 3px;
+}
+
+.left-bar >div {
+    background-color: white;
+    /* border:1px solid blue; */
+    margin-top:20px;
+    color:#556;
+    /* 这里使用 border-radius 来增加曲线
+    看起来更柔和
+    TODO 后续也需要看更多 */
+    border-radius: 3px;
+}
