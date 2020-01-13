@@ -17,12 +17,6 @@ body {
     height:100%;
 }
 
-/* TODO 这里实现 split-line 
-参考 dash-web 里的做法 */
-.split-line {
-    height:0.5px;
-
-}
 
 .right-bar {
     background-color: black;

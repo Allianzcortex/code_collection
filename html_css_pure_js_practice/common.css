@@ -1,0 +1,8 @@
+/* TODO 这里实现 split-line 
+参考 dash-web 里的做法 */
+
+.split-line {
+    box-sizing: border-box;
+    height:1px;
+    border:.5px solid #ddd;
+}

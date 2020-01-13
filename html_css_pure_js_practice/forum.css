@@ -1,5 +1,6 @@
 body {
     background-color: rgb(226, 226, 226);
+    --avatar-size: 2rem;
 }
 
 .navbar {
@@ -27,12 +28,13 @@ body {
     text-decoration: none;
     font-size: 20px;
     font-weight:900;
-    margin-left: 20px;
+    margin-left: 250px;
 }
 
 .navbar-right-group {
     display:flex;
     justify-content: space-around;
+    margin-right: 100px;
 }
 
 /* https://stackoverflow.com/questions/3225891/what-does-the-greater-than-sign-css-selector-mean 
@@ -47,4 +49,166 @@ body {
     margin-right:5px;
 
     /* TODO 用 nth:child 语法来加大最右边的距离 */
+}
+
+.main-content {
+    /* background-color: white; */
+    position: relative;
+    box-sizing: border-box;
+    /* top:50px 设置 relative 相对
+    fixed 刚好可以显示出来，navbar 的
+    height 是 45px */
+    top:50px; 
+    /* 下面的 80% width 也很有用 */
+    width:91%;
+    /* // 下面这一行没什么用，是让文字居中 */
+    /* text-align: center;  */
+    /* TODO 下面这里参考实现水平居中方式，用左右
+    两遍设置 margin-lef/right : auto
+    https://segmentfault.com/a/1190000003110179 */
+    /* margin:20px auto; */
+
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+    
+}
+
+.left-bar {
+    background-color:white;
+    margin-right:20px;
+    margin-left:20px;
+    display:flex;
+    flex-direction:column;
+    border-radius: 3px;
+}
+
+.category-bar {
+    background-color:white;
+    /* border:.5px groove gray; */
+    /* margin-bottom: 0px; */
+    padding: 5px;
+    /* height:100%; */
+    padding-left:0px;
+    display:flex;
+    flex-direction: flex-start;
+}
+
+.category-bar>a {
+    text-decoration: none;
+    color:black;
+    /* border:1px solid blue; */
+    margin:5px;
+    /* TODO 这里用 :nth-firstchild 来
+    调节让第一个目录左边的空格再大一点 */
+}
+
+.category-bar>a:hover {
+    background-color: rgb(226, 226, 226);
+}
+
+.posts-bar {
+    display:flex;
+    flex-direction: column;
+}
+
+/* ------------ */
+
+/* 在设定 posts 之前先确定 avatar
+这里参考：https://codepen.io/AllThingsSmitty/pen/dWmmQp
+的设定
+*/
+
+.avatar {
+    background-color: #ccc;
+    /* border-radius: 50%; */
+    height: var(--avatar-size);
+    text-align: center;
+    width: var(--avatar-size);
+    /* 让头像居中对齐，这种方式太 ticky..后续
+    一定有更好的解决方法 */
+    margin:auto 10px;
+}
+
+.initials {
+    font-size: calc(var(--avatar-size) / 2); /* 50% of parent */
+    line-height: 1;
+    position: relative;
+    top: calc(var(--avatar-size) / 4); /* 25% of parent */
+}
+
+.post-initial-content {
+    /* border:1px solid; */
+    display:flex;
+    flex-direction:column;
+    position: relative;
+    margin-left:10px;
+}
+
+.post-initial-content>h4 {
+    /* border:1px solid; */
+    position: relative;
+   margin-left:0;
+   margin-top: 5px;
+   margin-bottom:5px;
+}
+
+.post-meta {
+    /* border:1px solid; */
+    position: relative;
+    top:0;
+    margin-top:5px;
+    padding-bottom:5px;
+}
+
+.comment-count {
+    /* 参考这篇链接：https://stackoverflow.com/questions/22429003/how-to-right-align-flex-item
+    用 margin-left: auto 来做到自动对齐
+    */
+    margin-right:10px;
+    display:flex;
+    vertical-align: middle;
+    text-align: center;
+    /* color: #645353; */
+    border-radius: 3rem;
+    background: #ccc;
+    margin: .25rem;
+    margin-top:auto;
+    margin-bottom: auto;
+    margin-left:auto !important;
+    padding: 0 1rem;
+    height: 1rem;
+    line-height: 1rem;
+    font-weight: 400;
+}
+
+.posts {
+    display:flex;
+
+}
+
+.right-bar {
+    background-color:white;
+    margin-right:30px;
+    width:70%;
+    /* 让 tag 自动排列就好 */
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(30px, 1fr));
+    grid-template-rows: repeat(auto-fill, minmax(30px, 1fr));
+    gap:5px;
+}
+
+.tag {
+    background: rgb(219, 216, 216)!important;
+    font-size: .8rem;
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+    white-space: nowrap;
+    margin-top:3px;
+    display: flex;
+    /* flex 如何水平垂直居中 https://www.jianshu.com/p/7baa3d4a1e9c */
+    /* 一个是 justify-content，另一个是 align-items */
+    align-items: center;/*垂直居中*/
+    justify-content: center;
+    cursor: pointer;
+
 }
