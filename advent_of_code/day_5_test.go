@@ -507,8 +507,7 @@ var lines []string = []string{
 
 func TestDay5(t *testing.T) {
 	expectedRes := 18423
-	res := day5(lines)
-	if res != expectedRes {
+	if res := day5(lines); res != expectedRes {
 		t.Errorf("expected answer is %d, what we get is %d", expectedRes, res)
 	}
 }
