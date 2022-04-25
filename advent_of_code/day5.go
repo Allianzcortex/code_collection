@@ -24,6 +24,32 @@ func day5(lines []string) int {
 			continue
 		}
 
+		// part 2 : add diagonal line
+		if abs(startX, endX) == abs(startY, endY) {
+			var stepX, stepY, steps int
+			if endX-startX > 0 {
+				stepX = 1
+			} else {
+				stepX = -1
+			}
+
+			if endY-startY > 0 {
+				stepY = 1
+			} else {
+				stepY = -1
+			}
+			steps = abs(startX, endX)
+
+			// we don't need to care about whether it should be startX<=endX or startX>=endX
+			// in different situations. we only need to know how many tims we need to iterate
+			for i := 0; i <= steps; i++ {
+				AddCoordinate(startX, startY, counter, &cnt)
+				startX += stepX
+				startY += stepY
+			}
+			continue
+		}
+
 		// a trap here,there is no guarantee that startY is always smaller than endY
 		// should find min/max value
 		if startX == endX {
@@ -67,4 +93,11 @@ func max(a, b int) int {
 		return a
 	}
 	return b
+}
+
+func abs(a, b int) int {
+	if a > b {
+		return a - b
+	}
+	return b - a
 }
