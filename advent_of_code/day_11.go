@@ -6,7 +6,11 @@ func day11(matrix [][]int) int {
 
 	flashCnt := 0
 	hasFlashed := make(map[string]bool)
-	for step := 0; step < 100; step++ {
+
+	// for part 1
+	// for step := 0; step < 100; step++ {
+	// for part 2
+	for step := 1; ; step += 1 {
 		// 1. increase 1 for every Octo
 		for i := 0; i < len(matrix); i++ {
 			for j := 0; j < len(matrix[0]); j++ {
@@ -15,17 +19,23 @@ func day11(matrix [][]int) int {
 		}
 		// traverse through matrix
 		// since there is no append operation so no need to use pointer
-
+		// In step 2 we only calculate flashCnt in this round
+		flashCntInRound := 0
 		for i := 0; i < len(matrix); i++ {
 			for j := 0; j < len(matrix[0]); j++ {
 				if matrix[i][j] > 9 {
-					flash(matrix, i, j, hasFlashed, step, &flashCnt)
+					flash(matrix, i, j, hasFlashed, step, &flashCntInRound)
 				}
 			}
 		}
-	}
 
-	return flashCnt
+		// In part II we need to return flashZero round
+		if flashCntInRound == len(matrix)*(len(matrix[0])) {
+			return step
+		}
+		// In part I we need to return flashCnt
+		flashCnt += flashCntInRound
+	}
 
 }
 
@@ -38,7 +48,7 @@ func flash(matrix [][]int, i int, j int, hasFlashed map[string]bool, step int, f
 	// all adjacent engery + 1
 	for x := -1; x <= 1; x++ {
 		for y := -1; y <= 1; y++ {
-			// don't recalculate itself
+
 			if x == 0 && y == 0 {
 				continue
 			}

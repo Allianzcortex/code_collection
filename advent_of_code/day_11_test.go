@@ -15,10 +15,9 @@ var octos = [][]int{
 	{4, 8, 8, 5, 3, 2, 3, 1, 3, 8},
 }
 
-func TestDay11Part1(t *testing.T) {
-	expectedRes := 1686
-
-	if res := day11(octos); res != expectedRes {
-		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
+func TestDay11(t *testing.T) {
+	expectedRound := 1
+	if flashZeroRound := day11(octos); flashZeroRound != expectedRound {
+		t.Errorf("expected flash zero round is %v,what we get is %v", flashZeroRound, expectedRound)
 	}
 }
