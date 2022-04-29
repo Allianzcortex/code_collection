@@ -26,9 +26,23 @@ var paths = []string{
 	"sr-mi",
 }
 
+var path2 = []string{
+	// "start-A",
+	// "start-b",
+	// "A-c",
+	// "A-b",
+	// "b-d",
+	// "A-end",
+	// "b-end",
+	"start-A",
+	"A-b",
+	"b-c",
+	"A-end",
+}
+
 func TestDay12(t *testing.T) {
 	expectedRes := 4885
-	if res := day12(paths); res != expectedRes {
+	if res := day12(path2); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
 }

@@ -25,34 +25,43 @@ func day12(paths []string) int {
 
 	// begin to traverse
 	cnt := 0
-	output := "start "
+	output := []string{"start"}
 	for _, location := range maps["start"] {
-		travel(output, location, maps, map[string]bool{"start": true}, &cnt)
+		travel(&output, false, location, maps, map[string]bool{"start": false}, &cnt)
 	}
 
 	return cnt
 }
 
-func travel(output string, location string, maps map[string][]string, visited map[string]bool, cnt *int) {
+func travel(output *[]string, isVisitedTwice bool, location string, maps map[string][]string, visited map[string]bool, cnt *int) {
 	if location == "end" {
 		*cnt += 1
-		fmt.Println(output + " end")
+		fmt.Println(*output)
 		return
 	}
 
 	if isSmallCave(location) {
 		visited[location] = true
 	}
-	output += location + " "
-
+	*output = append(*output, location)
 	for _, next := range maps[location] {
-		if _, hasVisited := visited[next]; hasVisited {
-			continue
+		if hasVisited, exist := visited[next]; exist {
+			if !hasVisited {
+				// handle "start" especially
+				continue
+			}
+			if !isVisitedTwice {
+				travel(output, true, next, maps, visited, cnt)
+			} else {
+				continue
+			}
+		} else {
+			travel(output, isVisitedTwice, next, maps, visited, cnt)
 		}
-		travel(output, next, maps, visited, cnt)
-		output = output[:len(output)-1]
-		delete(visited, next)
 	}
+	*output = (*output)[:len(*output)-1]
+	delete(visited, location)
+
 }
 
 func isSmallCave(location string) bool {
