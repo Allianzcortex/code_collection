@@ -1,7 +1,6 @@
 package adventofcode
 
 import (
-	"fmt"
 	"testing"
 )
 
@@ -818,12 +817,9 @@ var actions = []string{
 	"y=6",
 }
 
-func TestDay13Part1(t *testing.T) {
-	expectedRes := 1
-	fmt.Println(len(coordinates))
-	actions := []string{"x=655"}
-	// actions := []string{"y=7"}
-	if res := day13Part1(coordinates, actions); res != expectedRes {
+func TestDay13(t *testing.T) {
+	expectedRes := 97
+	if res := day13(coordinates, actions); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
 }
