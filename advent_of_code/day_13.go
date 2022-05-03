@@ -18,40 +18,32 @@ func day13(inputs, actions []string) int {
 	for _, action := range actions {
 		maxX, maxY = 0, 0
 		line, _ := strconv.Atoi(strings.Split(action, "=")[1])
-		newM := make(map[string]bool)
 		for coordinate, _ := range m {
 			x, y := parseCoordinate(coordinate)
 			maxX = max(maxX, x)
 			maxY = max(maxY, y)
 			if action[0] == 'x' {
 				// to fold to the left
-				// if x > line {
-				// 	delete(m, coordinate)
-				// 	x = line - (x - line)
-				// 	m[fmt.Sprintf("%d,%d", x, y)] = true
-				// }
-				if x < line {
-					newM[coordinate] = true
-				} else {
+				if x > line {
+					// good to know it's safe to delete key during the iteration
+					delete(m, coordinate)
 					x = line - (x - line)
-					newM[fmt.Sprintf("%d,%d", x, y)] = true
+					m[fmt.Sprintf("%d,%d", x, y)] = true
 				}
 			} else {
 				// to fold to the up
-				if y < line {
-					newM[coordinate] = true
-				} else {
+				if y > line {
+					delete(m, coordinate)
 					y = line - (y - line)
-					newM[fmt.Sprintf("%d,%d", x, y)] = true
+					m[fmt.Sprintf("%d,%d", x, y)] = true
 				}
 			}
-			m = newM
 		}
 
 	}
 
 	// pitfall here
-	// should notice how it defines x,y
+	// should notice how it defines x,y ...
 	for i := 0; i < maxY; i++ {
 		for j := 0; j < maxX; j++ {
 			coordinate := fmt.Sprintf("%d,%d", j, i)
