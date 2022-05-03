@@ -26,8 +26,9 @@ func day12(paths []string) int {
 	// begin to traverse
 	cnt := 0
 	output := []string{"start"}
+	isVisited := false
 	for _, location := range maps["start"] {
-		travel(&output, false, location, maps, map[string]bool{"start": false}, &cnt)
+		travel(&output, isVisited, location, maps, map[string]bool{"start": false}, &cnt)
 	}
 
 	return cnt
@@ -44,21 +45,26 @@ func travel(output *[]string, isVisitedTwice bool, location string, maps map[str
 		visited[location] = true
 	}
 	*output = append(*output, location)
+	val := isVisitedTwice
 	for _, next := range maps[location] {
+		// tempVisited := *isVisitedTwice
 		if hasVisited, exist := visited[next]; exist {
 			if !hasVisited {
 				// handle "start" especially
 				continue
 			}
 			if !isVisitedTwice {
-				travel(output, true, next, maps, visited, cnt)
+				val = true
+				travel(output, val, next, maps, visited, cnt)
+				// *isVisitedTwice = false
 			} else {
 				continue
 			}
 		} else {
-			travel(output, isVisitedTwice, next, maps, visited, cnt)
+			travel(output, val, next, maps, visited, cnt)
 		}
 	}
+	// *isVisitedTwice = val
 	*output = (*output)[:len(*output)-1]
 	delete(visited, location)
 

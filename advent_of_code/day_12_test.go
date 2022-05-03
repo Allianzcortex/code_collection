@@ -27,17 +27,17 @@ var paths = []string{
 }
 
 var path2 = []string{
-	// "start-A",
-	// "start-b",
-	// "A-c",
-	// "A-b",
-	// "b-d",
-	// "A-end",
-	// "b-end",
 	"start-A",
+	"start-b",
+	"A-c",
 	"A-b",
-	"b-c",
+	"b-d",
 	"A-end",
+	"b-end",
+	// "start-A",
+	// "A-b",
+	// "b-c",
+	// "A-end",
 }
 
 func TestDay12(t *testing.T) {
