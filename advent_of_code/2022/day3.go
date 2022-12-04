@@ -1,7 +1,6 @@
 package adventofcode
 
 import (
-	"fmt"
 	"strings"
 )
 
@@ -22,7 +21,6 @@ func day3Part2(puzzle []string) int {
 	priorityPoints := 0
 
 	for i := 0; i < len(puzzle); i += 3 {
-		fmt.Println(i)
 		commonBadge := findCommonBadge(puzzle[i], puzzle[i+1], puzzle[i+2])
 		res := getPoint(commonBadge)
 		priorityPoints += res
