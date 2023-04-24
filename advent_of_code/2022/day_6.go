@@ -18,11 +18,6 @@ func day6Part1(input string) int {
 			}
 		}
 		m[ch] += 1
-		// for k, v := range m {
-		// 	fmt.Printf("%v:%d,", string(k), v)
-		// }
-		// fmt.Println()
-
 	}
 
 	return -1
