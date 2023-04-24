@@ -17,7 +17,8 @@ func day4(draws []int, boards [][][]int) int {
 				continue
 			}
 			coordinates := maps[i][num]
-
+			
+			// Here let's not create another map array , use unique symbol to identify each board
 			row_key := fmt.Sprintf("%d_row_%d", i, coordinates[0])
 			column_key := fmt.Sprintf("%d_column_%d", i, coordinates[1])
 			// check row firstly
@@ -26,7 +27,7 @@ func day4(draws []int, boards [][][]int) int {
 				return buildRes(draws, boards, maps, i, num)
 			}
 
-			// check column
+			// check column secondly
 			counter[column_key] += 1
 			if counter[column_key] == column {
 				return buildRes(draws, boards, maps, i, num)
@@ -35,7 +36,7 @@ func day4(draws []int, boards [][][]int) int {
 		}
 	}
 
-	return -1 // if we can't find an answer
+	return -1
 }
 
 func buildMap(boards [][][]int) []map[int][]int {
@@ -60,10 +61,11 @@ func buildMap(boards [][][]int) []map[int][]int {
 }
 
 func buildRes(draws []int, boards [][][]int, maps []map[int][]int, i int, num int) int {
+	// calculate the score
 
 	res := 0
 	board := boards[i]
-	// find unvisited
+
 	for i := 0; i < len(board); i++ {
 		for j := 0; j < len(board[0]); j++ {
 			res += board[i][j]
