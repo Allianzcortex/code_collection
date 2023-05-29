@@ -1,7 +1,7 @@
 
 ## What's this project designed for ?
 
-It's to answer the question of [wave-payroll-system](https://github.com/wvchallenges/se-challenge-payroll)
+It's to answer the question of [wave-payroll-challenges](https://github.com/wvchallenges/se-challenge-payroll)
 
 
 ## How to run the program:

@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top:50px;
+  margin-left: auto;
+  margin-right: auto;
+  width:400px;
+}
