@@ -18,7 +18,7 @@ Here are some of my past take-home projects that don't violate NDA(non-disclosur
 
 ---
 
-You could find python implementations( tutorial language is `R` ) for different algorithms in Data-Mining course.
+Here are python implementations for different ML/data-mining projects
 
 [Apriori-FP](Machine-Learning-Code-Base/Apriori-FP)
 
@@ -34,14 +34,10 @@ You could find python implementations( tutorial language is `R` ) for different 
 
 ![ROC](Machine-Learning-Code-Base/Decision-Tree/factor.png)
 
----
 
-
-[Inverted Index](Machine-Learning-Code-Base/build_search_engine.py) with full marks for implementing a 100+ lines nlp-based IMBD search engine with web crawlers from scratch
+[Inverted Index](Machine-Learning-Code-Base/build_search_engine.py) for implementing a 100+ lines nlp-based IMBD search engine with web crawlers from scratch
 
 ![search engine](Machine-Learning-Code-Base/build_search_engine.png)
-
----
 
 [Prediction Algorithm](Machine-Learning-Code-Base/prediction) including `Linear Regression && SVM && NN && Time Series`
 
