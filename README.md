@@ -8,6 +8,16 @@ You can check [makefile](makefile) for more details.
 
 ---
 
+Here are some of my past take-home projects that don't violate NDA(non-disclosure agreement)
+
+| company name | link |
+|--------------|------|
+| [wave](https://www.waveapps.com/) | [wave-payroll-challenges](./wave-hq-take-home-projects/)   |
+| [TextIQ](https://www.relativity.com/data-solutions/textiq/)       | 1    |
+
+
+---
+
 You could find python implementations( tutorial language is `R` ) for different algorithms in Data-Mining course.
 
 [Apriori-FP](Machine-Learning-Code-Base/Apriori-FP)

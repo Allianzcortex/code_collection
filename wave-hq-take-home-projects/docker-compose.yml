@@ -1,0 +1,25 @@
+version: "2"
+services:
+  app:
+    container_name: wave_app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+
+  db:
+    container_name: db
+    image: mysql:5.7.35
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: payroll
+    command: ['--character-set-server=utf8mb4', '--collation-server=utf8mb4_unicode_ci', '--sql_mode=']
+    volumes:
+      - ./:/docker-entrypoint-initdb.d
+    expose:
+        - "3306"
