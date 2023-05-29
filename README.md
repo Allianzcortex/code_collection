@@ -14,6 +14,7 @@ Here are some of my past take-home projects that don't violate NDA(non-disclosur
 |--------------|------|
 | [wave](https://www.waveapps.com/) | [wave-payroll-challenges](./wave-hq-take-home-projects/)   |
 | [TextIQ](https://www.relativity.com/data-solutions/textiq/)       | [textiq-sorting-visualize](./textiq-takehome-project/)    |
+| a stealth startup that no longer operate   | [extract-info-from-docs-with-python](./stealth-xml-windows-docx-conversion/)    |
 
 
 ---
