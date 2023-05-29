@@ -13,7 +13,7 @@ Here are some of my past take-home projects that don't violate NDA(non-disclosur
 | company name | link |
 |--------------|------|
 | [wave](https://www.waveapps.com/) | [wave-payroll-challenges](./wave-hq-take-home-projects/)   |
-| [TextIQ](https://www.relativity.com/data-solutions/textiq/)       | 1    |
+| [TextIQ](https://www.relativity.com/data-solutions/textiq/)       | [textiq-sorting-visualize](./textiq-takehome-project/)    |
 
 
 ---
