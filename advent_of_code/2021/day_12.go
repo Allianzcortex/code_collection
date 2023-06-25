@@ -1,7 +1,6 @@
 package adventofcode
 
 import (
-	"fmt"
 	"strings"
 	"unicode"
 )
@@ -20,7 +19,6 @@ func day12(paths []string) int {
 		isSmallCaveMaps[start] = isSmallCave(start)
 		isSmallCaveMaps[end] = isSmallCave(end)
 	}
-
 
 	// begin to traverse
 	cnt := 0

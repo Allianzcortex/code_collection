@@ -1,7 +1,6 @@
 package adventofcode
 
 import (
-	"fmt"
 	"strconv"
 	"strings"
 )
