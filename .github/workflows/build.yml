@@ -1,4 +1,4 @@
-name: Code Collection CI
+name: CI
 
 on:
   push:

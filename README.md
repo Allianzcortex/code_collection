@@ -11,6 +11,7 @@ Here are some of past take-home projects that can be shared without violating ND
 I also worked on [advent of code](https://adventofcode.com/) in the past years
 
 [advent of code 2021](./advent_of_code/2021/)
+
 [advent of code 2022](./advent_of_code/2022/)
 
 ---
