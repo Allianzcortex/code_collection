@@ -60,7 +60,6 @@ func travel(output *[]string, isVisitedTwice bool, location string, maps map[str
 			travel(output, val, next, maps, visited, cnt)
 		}
 	}
-	// *isVisitedTwice = val
 	*output = (*output)[:len(*output)-1]
 	delete(visited, location)
 
