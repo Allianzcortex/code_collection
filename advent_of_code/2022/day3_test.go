@@ -313,7 +313,7 @@ func TestDay3Part1(t *testing.T) {
 }
 
 func TestDay3Part2(t *testing.T) {
-	expectedRes := 8139
+	expectedRes := 2668
 	if res := day3Part2(puzzle3); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}

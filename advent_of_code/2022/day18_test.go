@@ -2720,7 +2720,7 @@ var input18 = [][]int{
 }
 
 func TestDay18Part1(t *testing.T) {
-	expectedRes := 32
+	expectedRes := 4636
 	if res := day18Part1(input18); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
