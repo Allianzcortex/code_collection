@@ -4,10 +4,11 @@ on:
   [push,pull_request]
 
 jobs:
+  runCIsInMultipleProject:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-go@v4
-      with:
+     - uses: actions/checkout@v3
+     - uses: actions/setup-go@v4
+     with:
         go-version: '>=1.17.0'
-    - run: ./run-ci.sh
+     - run: ./run-ci.sh
