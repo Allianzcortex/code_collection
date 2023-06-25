@@ -21,7 +21,6 @@ func day12(paths []string) int {
 		isSmallCaveMaps[end] = isSmallCave(end)
 	}
 
-	fmt.Println(maps)
 
 	// begin to traverse
 	cnt := 0
@@ -37,7 +36,6 @@ func day12(paths []string) int {
 func travel(output *[]string, isVisitedTwice bool, location string, maps map[string][]string, visited map[string]bool, cnt *int) {
 	if location == "end" {
 		*cnt += 1
-		fmt.Println(*output)
 		return
 	}
 

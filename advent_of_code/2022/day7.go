@@ -52,9 +52,6 @@ func day7Part1(input []string) int {
 	}
 
 	accumulate(dirLevel, &fileSizeMatch, "/")
-	fmt.Println(dirLevel)
-	fmt.Println(fileSizeMatch)
-	fmt.Println(dirList)
 
 	val := 0
 	for _, dir := range dirList {

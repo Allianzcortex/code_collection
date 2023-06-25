@@ -95,13 +95,6 @@ func (r Rock) Print(prevMaxY int, visitedPosition map[Position]bool, rock Rock) 
 		fuck = append(fuck, temp.String())
 	}
 
-	for i := 0; i < len(fuck); i++ {
-		fmt.Println(fuck[i])
-	}
-	for i := len(res) - 1; i >= 0; i-- {
-		fmt.Println(res[i])
-	}
-	fmt.Println()
 }
 
 func day17Part1(actions string) int {
@@ -113,10 +106,6 @@ func day17Part1(actions string) int {
 	actionIndex := 0
 	// iterate times
 	for i := 0; i < 6; i++ {
-		fmt.Println(prevMaxY)
-		if i == 2 {
-			fmt.Println("===")
-		}
 		rock := Rock{
 			Shape:      rocks[i%5],
 			startLeftX: 2,
