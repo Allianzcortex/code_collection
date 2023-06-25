@@ -1,6 +1,12 @@
 name: Code Collection CI
 
-on: [push,pull_request]
+on:
+  push:
+    branches:
+    - master
+  pull_request:
+    branches:
+    - master
 
 jobs:
   runCIsInMultipleProject:
@@ -10,4 +16,4 @@ jobs:
       - uses: actions/setup-go@v4
         with:
           go-version: '>=1.17.0'
-      - run: ./run-ci.sh
+      - run: bash run-ci.sh
