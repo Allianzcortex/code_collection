@@ -1,7 +1,6 @@
-name: Run-Multiple-CIs
+name: Code Collection CI
 
-on:
-  [push,pull_request]
+on: [push,pull_request]
 
 jobs:
   runCIsInMultipleProject:
