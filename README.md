@@ -1,8 +1,4 @@
-# code_collection 
-
-![build](https://github.com/Allianzcortex/code_collection/actions/workflows/build.yml/badge.svg)
-
----
+# code_collection ![build](https://github.com/Allianzcortex/code_collection/actions/workflows/build.yml/badge.svg)
 
 Here are some of past take-home projects that can be shared without violating NDA
 
