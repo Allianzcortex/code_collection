@@ -1,14 +1,10 @@
 # code_collection 
 
-#### Build Status ![build](https://api.travis-ci.org/Allianzcortex/code_collection.svg?branch=master)
-
-There are multple-programming-languages-projects inside this project, so `CI(Travis)` will use `makefile` rather than `.travis.yml` to execute all the tasks.
-
-You can check [makefile](makefile) for more details.
+![build](https://github.com/Allianzcortex/code_collection/actions/workflows/build.yml/badge.svg)
 
 ---
 
-Here are some of my past take-home projects that don't violate NDA(non-disclosure agreement)
+Here are some of past take-home projects that can be shared without violating NDA
 
 | company name | link |
 |--------------|------|
@@ -16,6 +12,10 @@ Here are some of my past take-home projects that don't violate NDA(non-disclosur
 | [TextIQ](https://www.relativity.com/data-solutions/textiq/)       | [textiq-sorting-visualize](./textiq-takehome-project/)    |
 | a stealth startup that no longer operate   | [extract-info-from-docs-with-python](./stealth-xml-windows-docx-conversion/)    |
 
+I also worked on [advent of code](https://adventofcode.com/) in the past years
+
+[advent of code 2021](./advent_of_code/2021/)
+[advent of code 2022](./advent_of_code/2022/)
 
 ---
 

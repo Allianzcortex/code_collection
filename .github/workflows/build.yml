@@ -1,0 +1,19 @@
+name: Code Collection CI
+
+on:
+  push:
+    branches:
+    - master
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  runCIsInMultipleProject:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v4
+        with:
+          go-version: '>=1.17.0'
+      - run: bash run-ci.sh

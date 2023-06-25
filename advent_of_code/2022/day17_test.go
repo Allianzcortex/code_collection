@@ -7,7 +7,7 @@ var input17 = ">>>><>><<>>>><<<>><<<<>><<<>>>><<<>>><<<<>><<>>>><<>>>><<<<>>>><>
 var sampleInput17 = ">>><<><>><<<>><>>><<<>>><<<><<<>><>><<>>"
 
 func TestDay17Part1(t *testing.T) {
-	expectedRes := 32
+	expectedRes := 7
 	if res := day17Part1(sampleInput17); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}

@@ -53,7 +53,6 @@ func day13(inputs, actions []string) int {
 				fmt.Print(" ")
 			}
 		}
-		fmt.Println()
 		// **    ** *  *  **  **** *  * *  * *
 		// *  *    * *  * *  *    * *  * * *  *
 		// *       * **** *  *   *  **** **   *

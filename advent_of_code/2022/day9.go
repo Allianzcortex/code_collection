@@ -53,14 +53,10 @@ func day9Part1(input []string) int {
 		}
 	}
 
-	for _, val := range matrix {
-		fmt.Println(val)
-	}
 	return cnt
 }
 
 func move(matrix *[2000][2000]int, hx, hy int, tx, ty *int) {
-	fmt.Println("===")
 	fmt.Printf("%d %d\n", hx, hy)
 	fmt.Printf("%d %d\n", *tx, *ty)
 	xDis, yDis := hx-*tx, hy-*ty

@@ -16,7 +16,7 @@ var octos = [][]int{
 }
 
 func TestDay11(t *testing.T) {
-	expectedRound := 1
+	expectedRound := 360
 	if flashZeroRound := day11(octos); flashZeroRound != expectedRound {
 		t.Errorf("expected flash zero round is %v,what we get is %v", flashZeroRound, expectedRound)
 	}

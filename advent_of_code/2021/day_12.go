@@ -1,7 +1,6 @@
 package adventofcode
 
 import (
-	"fmt"
 	"strings"
 	"unicode"
 )
@@ -21,8 +20,6 @@ func day12(paths []string) int {
 		isSmallCaveMaps[end] = isSmallCave(end)
 	}
 
-	fmt.Println(maps)
-
 	// begin to traverse
 	cnt := 0
 	output := []string{"start"}
@@ -37,7 +34,6 @@ func day12(paths []string) int {
 func travel(output *[]string, isVisitedTwice bool, location string, maps map[string][]string, visited map[string]bool, cnt *int) {
 	if location == "end" {
 		*cnt += 1
-		fmt.Println(*output)
 		return
 	}
 
@@ -64,7 +60,6 @@ func travel(output *[]string, isVisitedTwice bool, location string, maps map[str
 			travel(output, val, next, maps, visited, cnt)
 		}
 	}
-	// *isVisitedTwice = val
 	*output = (*output)[:len(*output)-1]
 	delete(visited, location)
 

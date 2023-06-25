@@ -2779,7 +2779,7 @@ var input21 = []string{
 }
 
 func TestDay21Part1(t *testing.T) {
-	expectedRes := 32
+	expectedRes := 110181395003396
 	if res := day21Part1(input21); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}

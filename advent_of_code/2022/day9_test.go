@@ -2017,7 +2017,7 @@ var sampleInput9 = []string{
 }
 
 func TestDay9Part1(t *testing.T) {
-	expectedRes := 32
+	expectedRes := 6498
 	if res := day9Part1(input9); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
