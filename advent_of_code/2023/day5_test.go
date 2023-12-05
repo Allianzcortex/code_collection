@@ -253,7 +253,7 @@ var input5 = []string{
 
 func TestDay5Part1(t *testing.T) {
 	expectedRes := 35
-	if res := day5Part1(smallInput5); res != expectedRes {
+	if res := day5Part1NaiveSolution(smallInput5); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
 }

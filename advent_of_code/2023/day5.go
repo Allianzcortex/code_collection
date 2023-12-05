@@ -28,7 +28,7 @@ var (
 	}
 )
 
-func day5Part1(input []string) int {
+func day5Part1NaiveSolution(input []string) int {
 	// get pre-calculated relationship
 	processInput(input)
 
