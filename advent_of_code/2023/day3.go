@@ -109,14 +109,6 @@ func isNumber(input []string, i int, j int) (bool, int) {
 	return true, val
 }
 
-// should use generic 囧
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // initially want to process input and fill the unique map in advance
 // but it turns out to be too complex and involves too much calculatin logic
 

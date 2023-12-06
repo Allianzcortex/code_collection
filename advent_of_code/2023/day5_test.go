@@ -252,12 +252,14 @@ var input5 = []string{
 }
 
 func TestDay5Part1(t *testing.T) {
-	expectedRes := 35
-	if res := day5Part1NaiveSolution(smallInput5); res != expectedRes {
+	expectedRes := 806029445
+	if res := day5Part1(input5); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
 }
 
 func TestDay5Part2(t *testing.T) {
-	// TODO: being implemented later
+	// having tried my best but still timeout
+	// maybe there is a better solution or maybe I should use goroutine
+	// to run in parallel
 }
