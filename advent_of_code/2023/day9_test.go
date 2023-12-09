@@ -206,14 +206,14 @@ var input9 = []string{
 }
 
 func TestDay9Part1(t *testing.T) {
-	expectedRes := 2756160
+	expectedRes := 1992273652
 	if res := day9Part1(input9); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
 }
 
 func TestDay9Part2(t *testing.T) {
-	expectedRes := 34788142
+	expectedRes := 1012
 	if res := day9Part2(input9); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
