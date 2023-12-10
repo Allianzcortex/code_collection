@@ -154,7 +154,7 @@ var input10 = []string{
 }
 
 func TestDay10Part1(t *testing.T) {
-	expectedRes := 5
+	expectedRes := 6838
 	if res := day10Part1(input10); res != expectedRes {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
