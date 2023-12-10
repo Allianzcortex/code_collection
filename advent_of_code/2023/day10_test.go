@@ -159,10 +159,3 @@ func TestDay10Part1(t *testing.T) {
 		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
 	}
 }
-
-func TestDay10Part2(t *testing.T) {
-	expectedRes := 6838
-	if res := day9Part2(input9); res != expectedRes {
-		t.Errorf("expected res is %v,what we get is %v", expectedRes, res)
-	}
-}

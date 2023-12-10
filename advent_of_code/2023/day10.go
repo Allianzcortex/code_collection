@@ -2,9 +2,30 @@ package adventofcode
 
 import (
 	"math"
-	"strconv"
-	"strings"
 )
+
+func day10Part1(input []string) int {
+
+	match, startLocation := processInput10(input)
+	visited := make(map[location]int, len(input)*len(input[0]))
+	for i := 0; i < len(input); i++ {
+		for j := 0; j < len(input[0]); j++ {
+			visited[location{i, j}] = math.MaxInt32
+		}
+	}
+
+	for _, action := range []string{"N", "S", "W", "E"} {
+		traverse10(input, match, visited, startLocation.x, startLocation.y, action, 0)
+	}
+
+	res := math.MinInt32
+	for _, val := range visited {
+		if val != math.MaxInt32 {
+			res = max(res, val)
+		}
+	}
+	return res
+}
 
 func processInput10(input []string) (map[location][]string, location) {
 
@@ -41,29 +62,6 @@ func processInput10(input []string) (map[location][]string, location) {
 	}
 
 	return match, startLocation
-}
-
-func day10Part1(input []string) int {
-
-	match, startLocation := processInput10(input)
-	visited := make(map[location]int, len(input)*len(input[0]))
-	for i := 0; i < len(input); i++ {
-		for j := 0; j < len(input[0]); j++ {
-			visited[location{i, j}] = math.MaxInt32
-		}
-	}
-
-	for _, action := range []string{"N", "S", "W", "E"} {
-		traverse10(input, match, visited, startLocation.x, startLocation.y, action, 0)
-	}
-
-	res := math.MinInt32
-	for _, val := range visited {
-		if val != math.MaxInt32 {
-			res = max(res, val)
-		}
-	}
-	return res
 }
 
 func traverse10(input []string, match map[location][]string, visited map[location]int, x, y int, dir string, curRes int) {
@@ -109,45 +107,4 @@ func traverse10(input []string, match map[location][]string, visited map[locatio
 	visited[location{newX, newY}] = min(visited[location{newX, newY}], curRes+1)
 
 	traverse10(input, match, visited, newX, newY, action, curRes+1)
-}
-
-func day10Part2(input []string) int {
-
-	res := 0
-
-	for _, line := range input {
-
-		// with Python list comprehension,it only needs 1-line...
-		numberStr := strings.Fields(line)
-		nums := []int{}
-		for _, numStr := range numberStr {
-			num, _ := strconv.Atoi(numStr)
-			nums = append(nums, num)
-		}
-
-		// next store all last numbers
-		firstNumbers := []int{nums[0]}
-		for {
-			nextStepNumbers := make([]int, len(nums)-1)
-			for i := 0; i < len(nums)-1; i++ {
-				nextStepNumbers[i] = nums[i+1] - nums[i]
-			}
-			if isAllZero(nextStepNumbers) {
-				break
-			} else {
-				firstNumbers = append(firstNumbers, nextStepNumbers[0])
-				nums = nextStepNumbers
-			}
-		}
-
-		// now do the calculation
-		// assume previous val = 0
-		previousVal := 0
-		for i := len(firstNumbers) - 1; i >= 0; i-- {
-			previousVal = firstNumbers[i] - previousVal
-		}
-		res += previousVal
-	}
-
-	return res
 }
