@@ -7,7 +7,7 @@ import (
 
 func day13Part1(input []string) int {
 
-	parsedInput := processInput(input)
+	parsedInput := processInput13(input)
 
 	res := 0
 	for _, matrix := range parsedInput {
@@ -39,7 +39,7 @@ func day13Part1(input []string) int {
 	return res
 }
 
-func processInput(input []string) [][]string {
+func processInput13(input []string) [][]string {
 	output := [][]string{}
 
 	tempInput := []string{}
