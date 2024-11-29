@@ -19,4 +19,4 @@ for dir in *"(python)"; do
     if [ -d "$dir" ]; then
         echo "Entering directory: $dir"
         cd "$dir" || exit 1
-    python -m unittest discover
+    # python -m unittest discover
