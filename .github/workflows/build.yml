@@ -12,11 +12,17 @@ jobs:
   runCIsInMultipleProject:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the code
       - uses: actions/checkout@v3
+
+      # Step 2: Set up Golang
       - uses: actions/setup-go@v4
         with:
           go-version: '>=1.17.0'
+      # Step 3: Set up Python
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+      
+      # Step 4: Run the combined script
       - run: bash run-ci.sh
