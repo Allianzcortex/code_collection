@@ -17,8 +17,8 @@ for dir in $dir_go_list; do
     fi
 done
 
-# run Python code
-echo "==entering folder=="
+# For solutions with go
+# may need to use another list for python folders next year
+echo "==entering Python solution folder=="
 cd "2024(python)"
-echo "==running Python unitest=="
 python -m unittest discover
