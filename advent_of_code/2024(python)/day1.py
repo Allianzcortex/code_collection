@@ -29,3 +29,4 @@ def solve_day1_part2(inp:list[str]) -> int:
         res += left_item * right_counter.get(left_item, 0)
     
     return res
+  
