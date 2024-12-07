@@ -16,6 +16,7 @@ I also worked on [advent of code](https://adventofcode.com/) in the past years
 
 [advent of code 2023](./advent_of_code/2023/)
 
+[advent of code 2024](./advent_of_code/2024(python)/)
 ---
 
 Here are python implementations for different ML/data-mining projects
