@@ -20,5 +20,4 @@ done
 # For solutions with Python
 # may need to use another list for python folders next year
 echo "==entering Python solution folder=="
-cd "2024(python)"
-python -m unittest discover
+cd "2024(python)" && python -m unittest discover && cd .. && cd "2025(python)" && python -m unittest discover 
