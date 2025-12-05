@@ -35,6 +35,7 @@ def _merge_intervals(intervals):
             res.append(current)
             prev_end = current[1]
         else:
+        # with overlap, choose maximum end as new end
             res[-1][1] = max(prev_end, current[1])
             prev_end = res[-1][1]
     return res

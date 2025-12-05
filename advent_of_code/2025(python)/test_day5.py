@@ -1,6 +1,6 @@
 import unittest
 
-from day2 import solve_day5_part1, solve_day5_part2
+from day5 import solve_day5_part1, solve_day5_part2
 
 question_input = [
     "3-5",
