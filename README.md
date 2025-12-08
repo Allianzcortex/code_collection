@@ -18,6 +18,8 @@ I also worked on [advent of code](https://adventofcode.com/) in the past years
 
 [advent of code 2024](./advent_of_code/2024(python)/)
 
+[advent of code 2025](./advent_of_code/2025(python)/)
+
 ---
 
 Here are python implementations for different ML/data-mining projects
