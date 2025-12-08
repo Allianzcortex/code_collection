@@ -1,6 +1,6 @@
 import unittest
 
-from day2 import solve_day8_part1
+from day8 import solve_day8_part1
 
 question_input = [
     "162,817,812",
